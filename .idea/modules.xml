@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/hystrix/hystrix.iml" filepath="$PROJECT_DIR$/hystrix/hystrix.iml" />
+      <module fileurl="file://$PROJECT_DIR$/monster/monster.iml" filepath="$PROJECT_DIR$/monster/monster.iml" />
+      <module fileurl="file://$PROJECT_DIR$/monster/ms-cinsumer-order-ribbon/ms-cinsumer-order-ribbon.iml" filepath="$PROJECT_DIR$/monster/ms-cinsumer-order-ribbon/ms-cinsumer-order-ribbon.iml" />
+      <module fileurl="file://$PROJECT_DIR$/monster/ms-consumer-order-feign/ms-consumer-order-feign.iml" filepath="$PROJECT_DIR$/monster/ms-consumer-order-feign/ms-consumer-order-feign.iml" />
+      <module fileurl="file://$PROJECT_DIR$/monster/ms-consumer-order-ribbon-customizing/ms-consumer-order-ribbon-customizing.iml" filepath="$PROJECT_DIR$/monster/ms-consumer-order-ribbon-customizing/ms-consumer-order-ribbon-customizing.iml" />
+      <module fileurl="file://$PROJECT_DIR$/monster/ms-consumer-order-ribbon-customizing-properties/ms-consumer-order-ribbon-customizing-properties.iml" filepath="$PROJECT_DIR$/monster/ms-consumer-order-ribbon-customizing-properties/ms-consumer-order-ribbon-customizing-properties.iml" />
+      <module fileurl="file://$PROJECT_DIR$/monster/ms-consumer-order-ribbon-without-eureka/ms-consumer-order-ribbon-without-eureka.iml" filepath="$PROJECT_DIR$/monster/ms-consumer-order-ribbon-without-eureka/ms-consumer-order-ribbon-without-eureka.iml" />
+      <module fileurl="file://$PROJECT_DIR$/monster/ms-eureka-server/ms-eureka-server.iml" filepath="$PROJECT_DIR$/monster/ms-eureka-server/ms-eureka-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/monster/ms-provider-user/ms-provider-user.iml" filepath="$PROJECT_DIR$/monster/ms-provider-user/ms-provider-user.iml" />
+      <module fileurl="file://$PROJECT_DIR$/monster/ms-provider-user-api/ms-provider-user-api.iml" filepath="$PROJECT_DIR$/monster/ms-provider-user-api/ms-provider-user-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/swagger1/swagger1.iml" filepath="$PROJECT_DIR$/swagger1/swagger1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/swagger2/swagger2.iml" filepath="$PROJECT_DIR$/swagger2/swagger2.iml" />
+    </modules>
+  </component>
+</project>
