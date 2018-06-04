@@ -6,12 +6,18 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="06-ms-eureka-server" />
+        <module name="06-ms-provider-user" />
         <module name="hystrix" />
         <module name="monster" />
         <module name="ms-cinsumer-order-ribbon" />
         <module name="ms-consumer-order-feign" />
         <module name="ms-consumer-order-ribbon-customizing" />
         <module name="ms-consumer-order-ribbon-customizing-properties" />
+        <module name="ms-consumer-order-ribbon-hystrix-customizing" />
+        <module name="ms-consumer-order-ribbon-hystrix-fallback" />
+        <module name="ms-consumer-order-ribbon-hystrix-fusing" />
+        <module name="ms-consumer-order-ribbon-hystrix-thread-isolation" />
         <module name="ms-consumer-order-ribbon-without-eureka" />
         <module name="ms-eureka-server" />
         <module name="ms-provider-user" />
@@ -21,12 +27,18 @@
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
+      <module name="06-ms-eureka-server" target="1.8" />
+      <module name="06-ms-provider-user" target="1.8" />
       <module name="hystrix" target="1.8" />
       <module name="monster" target="1.8" />
       <module name="ms-cinsumer-order-ribbon" target="1.8" />
       <module name="ms-consumer-order-feign" target="1.8" />
       <module name="ms-consumer-order-ribbon-customizing" target="1.8" />
       <module name="ms-consumer-order-ribbon-customizing-properties" target="1.8" />
+      <module name="ms-consumer-order-ribbon-hystrix-customizing" target="1.8" />
+      <module name="ms-consumer-order-ribbon-hystrix-fallback" target="1.8" />
+      <module name="ms-consumer-order-ribbon-hystrix-fusing" target="1.8" />
+      <module name="ms-consumer-order-ribbon-hystrix-thread-isolation" target="1.8" />
       <module name="ms-consumer-order-ribbon-without-eureka" target="1.8" />
       <module name="ms-eureka-server" target="1.8" />
       <module name="ms-provider-user" target="1.8" />
