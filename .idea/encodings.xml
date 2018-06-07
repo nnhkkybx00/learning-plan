@@ -25,7 +25,18 @@
     <file url="file://$PROJECT_DIR$/monster/ms-eureka-server" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/monster/ms-provider-user" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/monster/ms-provider-user-api" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/monster/zuul" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/swagger1" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/swagger2" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/zuul" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/zuul/consumer-order-ribbon" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/zuul/eureka-server" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/zuul/eureka-server-ha" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/zuul/gate-zuul" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/zuul/gateway-zuul-aggregation" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/zuul/gateway-zuul-fallback" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/zuul/gateway-zuul-filter" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/zuul/provider-user" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/zuul/spring-boot-admin" charset="UTF-8" />
   </component>
 </project>

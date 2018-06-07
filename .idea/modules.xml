@@ -6,8 +6,14 @@
       <module fileurl="file://$PROJECT_DIR$/hystrix/ms-provider-user/06-ms-provider-user.iml" filepath="$PROJECT_DIR$/hystrix/ms-provider-user/06-ms-provider-user.iml" />
       <module fileurl="file://$PROJECT_DIR$/hystrix2/consumer-order-feign-hystrix-fallback/consumer-order-feign-hystrix-fallback.iml" filepath="$PROJECT_DIR$/hystrix2/consumer-order-feign-hystrix-fallback/consumer-order-feign-hystrix-fallback.iml" />
       <module fileurl="file://$PROJECT_DIR$/hystrix2/consumer-order-feign-hystrix-fallback-stream/consumer-order-feign-hystrix-fallback-stream.iml" filepath="$PROJECT_DIR$/hystrix2/consumer-order-feign-hystrix-fallback-stream/consumer-order-feign-hystrix-fallback-stream.iml" />
+      <module fileurl="file://$PROJECT_DIR$/zuul/consumer-order-ribbon/consumer-order-ribbon.iml" filepath="$PROJECT_DIR$/zuul/consumer-order-ribbon/consumer-order-ribbon.iml" />
       <module fileurl="file://$PROJECT_DIR$/hystrix2/consumer-order-ribbon-hystrix-fallback/consumer-order-ribbon-hystrix-fallback.iml" filepath="$PROJECT_DIR$/hystrix2/consumer-order-ribbon-hystrix-fallback/consumer-order-ribbon-hystrix-fallback.iml" />
       <module fileurl="file://$PROJECT_DIR$/hystrix2/eureka-server/eureka-server.iml" filepath="$PROJECT_DIR$/hystrix2/eureka-server/eureka-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/zuul/eureka-server-ha/eureka-server-ha.iml" filepath="$PROJECT_DIR$/zuul/eureka-server-ha/eureka-server-ha.iml" />
+      <module fileurl="file://$PROJECT_DIR$/zuul/gate-zuul/gate-zuul.iml" filepath="$PROJECT_DIR$/zuul/gate-zuul/gate-zuul.iml" />
+      <module fileurl="file://$PROJECT_DIR$/zuul/gateway-zuul-aggregation/gateway-zuul-aggregation.iml" filepath="$PROJECT_DIR$/zuul/gateway-zuul-aggregation/gateway-zuul-aggregation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/zuul/gateway-zuul-fallback/gateway-zuul-fallback.iml" filepath="$PROJECT_DIR$/zuul/gateway-zuul-fallback/gateway-zuul-fallback.iml" />
+      <module fileurl="file://$PROJECT_DIR$/zuul/gateway-zuul-filter/gateway-zuul-filter.iml" filepath="$PROJECT_DIR$/zuul/gateway-zuul-filter/gateway-zuul-filter.iml" />
       <module fileurl="file://$PROJECT_DIR$/hystrix/hystrix.iml" filepath="$PROJECT_DIR$/hystrix/hystrix.iml" />
       <module fileurl="file://$PROJECT_DIR$/hystrix2/hystrix-dashboard/hystrix-dashboard.iml" filepath="$PROJECT_DIR$/hystrix2/hystrix-dashboard/hystrix-dashboard.iml" />
       <module fileurl="file://$PROJECT_DIR$/hystrix2/hystrix-turbine/hystrix-turbine.iml" filepath="$PROJECT_DIR$/hystrix2/hystrix-turbine/hystrix-turbine.iml" />
@@ -26,8 +32,12 @@
       <module fileurl="file://$PROJECT_DIR$/monster/ms-provider-user/ms-provider-user.iml" filepath="$PROJECT_DIR$/monster/ms-provider-user/ms-provider-user.iml" />
       <module fileurl="file://$PROJECT_DIR$/monster/ms-provider-user-api/ms-provider-user-api.iml" filepath="$PROJECT_DIR$/monster/ms-provider-user-api/ms-provider-user-api.iml" />
       <module fileurl="file://$PROJECT_DIR$/hystrix2/provider-user/provider-user.iml" filepath="$PROJECT_DIR$/hystrix2/provider-user/provider-user.iml" />
+      <module fileurl="file://$PROJECT_DIR$/zuul/spring-boot-admin/spring-boot-admin.iml" filepath="$PROJECT_DIR$/zuul/spring-boot-admin/spring-boot-admin.iml" />
       <module fileurl="file://$PROJECT_DIR$/swagger1/swagger1.iml" filepath="$PROJECT_DIR$/swagger1/swagger1.iml" />
       <module fileurl="file://$PROJECT_DIR$/swagger2/swagger2.iml" filepath="$PROJECT_DIR$/swagger2/swagger2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/zuul/zuul.iml" filepath="$PROJECT_DIR$/zuul/zuul.iml" />
+      <module fileurl="file://$PROJECT_DIR$/zuul/eureka-server/zuul-eureka-server.iml" filepath="$PROJECT_DIR$/zuul/eureka-server/zuul-eureka-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/zuul/provider-user/zuul-provider-user.iml" filepath="$PROJECT_DIR$/zuul/provider-user/zuul-provider-user.iml" />
     </modules>
   </component>
 </project>

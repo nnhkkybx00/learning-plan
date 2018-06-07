@@ -10,8 +10,14 @@
         <module name="06-ms-provider-user" />
         <module name="consumer-order-feign-hystrix-fallback" />
         <module name="consumer-order-feign-hystrix-fallback-stream" />
+        <module name="consumer-order-ribbon" />
         <module name="consumer-order-ribbon-hystrix-fallback" />
         <module name="eureka-server" />
+        <module name="eureka-server-ha" />
+        <module name="gate-zuul" />
+        <module name="gateway-zuul-aggregation" />
+        <module name="gateway-zuul-fallback" />
+        <module name="gateway-zuul-filter" />
         <module name="hystrix" />
         <module name="hystrix-dashboard" />
         <module name="hystrix-turbine" />
@@ -30,8 +36,12 @@
         <module name="ms-provider-user" />
         <module name="ms-provider-user-api" />
         <module name="provider-user" />
+        <module name="spring-boot-admin" />
         <module name="swagger1" />
         <module name="swagger2" />
+        <module name="zuul" />
+        <module name="zuul-eureka-server" />
+        <module name="zuul-provider-user" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
@@ -39,8 +49,14 @@
       <module name="06-ms-provider-user" target="1.8" />
       <module name="consumer-order-feign-hystrix-fallback" target="1.8" />
       <module name="consumer-order-feign-hystrix-fallback-stream" target="1.8" />
+      <module name="consumer-order-ribbon" target="1.8" />
       <module name="consumer-order-ribbon-hystrix-fallback" target="1.8" />
       <module name="eureka-server" target="1.8" />
+      <module name="eureka-server-ha" target="1.8" />
+      <module name="gate-zuul" target="1.8" />
+      <module name="gateway-zuul-aggregation" target="1.8" />
+      <module name="gateway-zuul-fallback" target="1.8" />
+      <module name="gateway-zuul-filter" target="1.8" />
       <module name="hystrix" target="1.8" />
       <module name="hystrix-dashboard" target="1.8" />
       <module name="hystrix-turbine" target="1.8" />
@@ -59,8 +75,12 @@
       <module name="ms-provider-user" target="1.8" />
       <module name="ms-provider-user-api" target="1.8" />
       <module name="provider-user" target="1.8" />
+      <module name="spring-boot-admin" target="1.5" />
       <module name="swagger1" target="1.8" />
       <module name="swagger2" target="1.8" />
+      <module name="zuul" target="1.8" />
+      <module name="zuul-eureka-server" target="1.8" />
+      <module name="zuul-provider-user" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>
