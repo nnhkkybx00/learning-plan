@@ -8,6 +8,17 @@
         <outputRelativeToContentRoot value="true" />
         <module name="06-ms-eureka-server" />
         <module name="06-ms-provider-user" />
+        <module name="config" />
+        <module name="config-client" />
+        <module name="config-client-authenticating" />
+        <module name="config-client-eureka" />
+        <module name="config-client-refresh" />
+        <module name="config-client-refresh-cloud-bus" />
+        <module name="config-server" />
+        <module name="config-server-authenticating" />
+        <module name="config-server-encryption" />
+        <module name="config-server-eureka" />
+        <module name="config-server-refresh-cloud-bus" />
         <module name="consumer-order-feign-hystrix-fallback" />
         <module name="consumer-order-feign-hystrix-fallback-stream" />
         <module name="consumer-order-ribbon" />
@@ -48,6 +59,17 @@
     <bytecodeTargetLevel>
       <module name="06-ms-eureka-server" target="1.8" />
       <module name="06-ms-provider-user" target="1.8" />
+      <module name="config" target="1.8" />
+      <module name="config-client" target="1.8" />
+      <module name="config-client-authenticating" target="1.8" />
+      <module name="config-client-eureka" target="1.8" />
+      <module name="config-client-refresh" target="1.8" />
+      <module name="config-client-refresh-cloud-bus" target="1.8" />
+      <module name="config-server" target="1.8" />
+      <module name="config-server-authenticating" target="1.8" />
+      <module name="config-server-encryption" target="1.8" />
+      <module name="config-server-eureka" target="1.8" />
+      <module name="config-server-refresh-cloud-bus" target="1.8" />
       <module name="consumer-order-feign-hystrix-fallback" target="1.8" />
       <module name="consumer-order-feign-hystrix-fallback-stream" target="1.8" />
       <module name="consumer-order-ribbon" target="1.8" />

@@ -4,6 +4,17 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/hystrix/ms-eureka-server/06-ms-eureka-server.iml" filepath="$PROJECT_DIR$/hystrix/ms-eureka-server/06-ms-eureka-server.iml" />
       <module fileurl="file://$PROJECT_DIR$/hystrix/ms-provider-user/06-ms-provider-user.iml" filepath="$PROJECT_DIR$/hystrix/ms-provider-user/06-ms-provider-user.iml" />
+      <module fileurl="file://$PROJECT_DIR$/config/config.iml" filepath="$PROJECT_DIR$/config/config.iml" />
+      <module fileurl="file://$PROJECT_DIR$/config/config-client/config-client.iml" filepath="$PROJECT_DIR$/config/config-client/config-client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/config/config-client-authenticating/config-client-authenticating.iml" filepath="$PROJECT_DIR$/config/config-client-authenticating/config-client-authenticating.iml" />
+      <module fileurl="file://$PROJECT_DIR$/config/config-client-eureka/config-client-eureka.iml" filepath="$PROJECT_DIR$/config/config-client-eureka/config-client-eureka.iml" />
+      <module fileurl="file://$PROJECT_DIR$/config/config-client-refresh/config-client-refresh.iml" filepath="$PROJECT_DIR$/config/config-client-refresh/config-client-refresh.iml" />
+      <module fileurl="file://$PROJECT_DIR$/config/config-client-refresh-cloud-bus/config-client-refresh-cloud-bus.iml" filepath="$PROJECT_DIR$/config/config-client-refresh-cloud-bus/config-client-refresh-cloud-bus.iml" />
+      <module fileurl="file://$PROJECT_DIR$/config/config-server/config-server.iml" filepath="$PROJECT_DIR$/config/config-server/config-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/config/config-server-authenticating/config-server-authenticating.iml" filepath="$PROJECT_DIR$/config/config-server-authenticating/config-server-authenticating.iml" />
+      <module fileurl="file://$PROJECT_DIR$/config/config-server-encryption/config-server-encryption.iml" filepath="$PROJECT_DIR$/config/config-server-encryption/config-server-encryption.iml" />
+      <module fileurl="file://$PROJECT_DIR$/config/config-server-eureka/config-server-eureka.iml" filepath="$PROJECT_DIR$/config/config-server-eureka/config-server-eureka.iml" />
+      <module fileurl="file://$PROJECT_DIR$/config/config-server-refresh-cloud-bus/config-server-refresh-cloud-bus.iml" filepath="$PROJECT_DIR$/config/config-server-refresh-cloud-bus/config-server-refresh-cloud-bus.iml" />
       <module fileurl="file://$PROJECT_DIR$/hystrix2/consumer-order-feign-hystrix-fallback/consumer-order-feign-hystrix-fallback.iml" filepath="$PROJECT_DIR$/hystrix2/consumer-order-feign-hystrix-fallback/consumer-order-feign-hystrix-fallback.iml" />
       <module fileurl="file://$PROJECT_DIR$/hystrix2/consumer-order-feign-hystrix-fallback-stream/consumer-order-feign-hystrix-fallback-stream.iml" filepath="$PROJECT_DIR$/hystrix2/consumer-order-feign-hystrix-fallback-stream/consumer-order-feign-hystrix-fallback-stream.iml" />
       <module fileurl="file://$PROJECT_DIR$/zuul/consumer-order-ribbon/consumer-order-ribbon.iml" filepath="$PROJECT_DIR$/zuul/consumer-order-ribbon/consumer-order-ribbon.iml" />

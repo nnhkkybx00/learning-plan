@@ -2,16 +2,62 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="89d701e5-73ef-482f-a792-3f5c4f52b19e" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_rabbitmq_amqp_client_4_0_3.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_rabbitmq_http_client_1_1_1_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_amqp_spring_amqp_1_7_7_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_amqp_spring_rabbit_1_7_7_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_amqp_1_5_13_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_retry_spring_retry_1_2_2_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_messaging_4_3_17_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/monster/rabbitmq/src/main/java/com/dl/rabbitmq/RabbitConfig.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/monster/rabbitmq/src/main/java/com/dl/rabbitmq/Receiver.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/monster/rabbitmq/src/main/java/com/dl/rabbitmq/Sender.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/config/Spring Cloud Config分布式集中配置中心详解(1).pdf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/hystrix/Hystrix介绍及服务限流降级熔断机制详解(1).pdf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/hystrix2/Hystrix&amp;Feign监控Dashboard与Turbine聚合.pdf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_esotericsoftware_kryo_shaded_3_0_3.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_esotericsoftware_minlog_1_3_0.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_googlecode_javaewah_JavaEWAH_0_7_9.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_jcraft_jsch_0_1_54.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_eclipse_jgit_org_eclipse_jgit_3_6_1_201501031845_r.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_amqp_spring_amqp_1_7_4_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_amqp_spring_rabbit_1_7_4_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_amqp_1_5_9_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_security_1_5_9_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_validation_1_5_9_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_bus_1_3_2_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_config_client_1_4_0_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_config_server_1_4_0_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_bus_amqp_1_3_2_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_config_1_4_0_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_stream_rabbit_1_3_0_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_stream_1_3_0_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_stream_binder_rabbit_1_3_0_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_stream_binder_rabbit_core_1_3_0_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_stream_codec_1_3_0_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_integration_spring_integration_amqp_4_3_12_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_integration_spring_integration_core_4_3_12_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_integration_spring_integration_jmx_4_3_12_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_integration_spring_integration_tuple_1_0_0_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_retry_spring_retry_1_2_1_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_security_spring_security_config_4_2_3_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_security_spring_security_core_4_2_3_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_security_spring_security_web_4_2_3_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_messaging_4_3_13_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_tuple_1_0_0_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/config/config-client-authenticating/src/main/java/com/dl/configclientauthenticating/controller/ConfigClientController.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/config/config-client-authenticating/src/main/resources/application.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/config/config-client-authenticating/src/main/resources/bootstrap.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/config/config-client-eureka/src/main/java/com/dl/configclienteureka/controller/ConfigClientController.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/config/config-client-eureka/src/main/resources/application.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/config/config-client-eureka/src/main/resources/bootstrap.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/config/config-client-refresh-cloud-bus/src/main/java/com/dl/configclientrefreshcloudbus/controller/ConfigClientController.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/config/config-client-refresh-cloud-bus/src/main/resources/application.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/config/config-client-refresh-cloud-bus/src/main/resources/bootstrap.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/config/config-client-refresh/src/main/java/com/dl/configclientrefresh/controller/ConfigClientController.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/config/config-client-refresh/src/main/resources/application.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/config/config-client-refresh/src/main/resources/bootstrap.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/config/config-client/src/main/java/com/dl/configclient/controller/ConfigClientController.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/config/config-client/src/main/resources/application.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/config/config-client/src/main/resources/bootstrap.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/config/config-server-authenticating/src/main/resources/application.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/config/config-server-encryption/src/main/resources/application.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/config/config-server-encryption/src/main/resources/bootstrap.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/config/config-server-eureka/src/main/resources/application.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/config/config-server-refresh-cloud-bus/src/main/resources/application.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/config/config-server/src/main/resources/application.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/config/config-server/src/main/resources/application.yml.bak1-git地址占位符" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/config/config-server/src/main/resources/application.yml.bak2-子目录查询search-path" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/compiler.xml" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/encodings.xml" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
@@ -56,6 +102,17 @@
     <ignored path="$PROJECT_DIR$/zuul/consumer-order-ribbon/target/" />
     <ignored path="$PROJECT_DIR$/zuul/spring-boot-admin/target/" />
     <ignored path="$PROJECT_DIR$/monster/rabbitmq/target/" />
+    <ignored path="$PROJECT_DIR$/config/target/" />
+    <ignored path="$PROJECT_DIR$/config/config-client-authenticating/target/" />
+    <ignored path="$PROJECT_DIR$/config/config-client/target/" />
+    <ignored path="$PROJECT_DIR$/config/config-client-eureka/target/" />
+    <ignored path="$PROJECT_DIR$/config/config-client-refresh/target/" />
+    <ignored path="$PROJECT_DIR$/config/config-client-refresh-cloud-bus/target/" />
+    <ignored path="$PROJECT_DIR$/config/config-server/target/" />
+    <ignored path="$PROJECT_DIR$/config/config-server-authenticating/target/" />
+    <ignored path="$PROJECT_DIR$/config/config-server-encryption/target/" />
+    <ignored path="$PROJECT_DIR$/config/config-server-eureka/target/" />
+    <ignored path="$PROJECT_DIR$/config/config-server-refresh-cloud-bus/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -65,119 +122,113 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="GatewayZuulFilterApplication.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/zuul/gateway-zuul-filter/src/main/java/com/zuul/gatewayzuulfilter/GatewayZuulFilterApplication.java">
+      <file leaf-file-name="bootstrap.yml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/config/config-client-refresh-cloud-bus/src/main/resources/bootstrap.yml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="189">
-              <caret line="11" column="13" lean-forward="false" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="PreRequestLogFilter.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/zuul/gateway-zuul-filter/src/main/java/com/zuul/gatewayzuulfilter/filters/pre/PreRequestLogFilter.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="189">
-              <caret line="13" column="11" lean-forward="false" selection-start-line="13" selection-start-column="11" selection-end-line="13" selection-end-column="11" />
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
       <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/monster/rabbitmq/pom.xml">
+        <entry file="file://$PROJECT_DIR$/config/config-client-refresh/pom.xml">
           <provider editor-type-id="MavenHelperPluginDependencyAnalyzer">
             <state />
           </provider>
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="459">
-              <caret line="17" column="33" lean-forward="false" selection-start-line="17" selection-start-column="33" selection-end-line="17" selection-end-column="33" />
+            <state relative-caret-position="729">
+              <caret line="51" column="27" lean-forward="false" selection-start-line="51" selection-start-column="27" selection-end-line="51" selection-end-column="27" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="application.properties" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/monster/rabbitmq/src/main/resources/application.properties">
+      <file leaf-file-name="ConfigClientController.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/config/config-client-refresh/src/main/java/com/dl/configclientrefresh/controller/ConfigClientController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="162">
+              <caret line="9" column="13" lean-forward="false" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/config/config-client-eureka/pom.xml">
+          <provider editor-type-id="MavenHelperPluginDependencyAnalyzer">
+            <state />
+          </provider>
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="729">
+              <caret line="51" column="27" lean-forward="false" selection-start-line="51" selection-start-column="27" selection-end-line="51" selection-end-column="27" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ConfigClientEurekaApplication.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/config/config-client-eureka/src/main/java/com/dl/configclienteureka/ConfigClientEurekaApplication.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="135">
-              <caret line="5" column="31" lean-forward="false" selection-start-line="5" selection-start-column="31" selection-end-line="5" selection-end-column="31" />
+              <caret line="7" column="19" lean-forward="false" selection-start-line="7" selection-start-column="19" selection-end-line="7" selection-end-column="19" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="RabbitmqApplication.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/monster/rabbitmq/src/main/java/com/dl/rabbitmq/RabbitmqApplication.java">
+      <file leaf-file-name="ConfigClientController.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/config/config-client-eureka/src/main/java/com/dl/configclienteureka/controller/ConfigClientController.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="135">
-              <caret line="6" column="13" lean-forward="false" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
-              <folding>
-                <element signature="e#246#247#0" expanded="true" />
-                <element signature="e#307#308#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="RabbitmqApplicationTests.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/monster/rabbitmq/src/test/java/com/dl/rabbitmq/RabbitmqApplicationTests.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="432">
-              <caret line="21" column="0" lean-forward="true" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
+              <caret line="7" column="13" lean-forward="false" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Sender.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/monster/rabbitmq/src/main/java/com/dl/rabbitmq/Sender.java">
+      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/config/config-client-authenticating/pom.xml">
+          <provider editor-type-id="MavenHelperPluginDependencyAnalyzer">
+            <state />
+          </provider>
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="405">
-              <caret line="19" column="47" lean-forward="false" selection-start-line="19" selection-start-column="42" selection-end-line="19" selection-end-column="47" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="572">
+              <caret line="47" column="27" lean-forward="false" selection-start-line="47" selection-start-column="27" selection-end-line="47" selection-end-column="27" />
+              <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Receiver.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/monster/rabbitmq/src/main/java/com/dl/rabbitmq/Receiver.java">
+      <file leaf-file-name="ConfigClientController.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/config/config-client-authenticating/src/main/java/com/dl/configclientauthenticating/controller/ConfigClientController.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="54">
-              <caret line="4" column="48" lean-forward="false" selection-start-line="4" selection-start-column="48" selection-end-line="4" selection-end-column="48" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#376#377#0" expanded="true" />
-                <element signature="e#433#434#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="135">
+              <caret line="7" column="13" lean-forward="false" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+              <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="RabbitConfig.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/monster/rabbitmq/src/main/java/com/dl/rabbitmq/RabbitConfig.java">
+      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/config/config-client/pom.xml">
+          <provider editor-type-id="MavenHelperPluginDependencyAnalyzer">
+            <state />
+          </provider>
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="351">
-              <caret line="16" column="21" lean-forward="false" selection-start-line="16" selection-start-column="21" selection-end-line="16" selection-end-column="21" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#283#284#0" expanded="true" />
-                <element signature="e#324#325#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="302">
+              <caret line="37" column="26" lean-forward="true" selection-start-line="37" selection-start-column="26" selection-end-line="37" selection-end-column="26" />
+              <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="AmqpTemplate.class" pinned="false" current-in-tab="false">
-        <entry file="jar://$USER_HOME$/.m2/repository/org/springframework/amqp/spring-amqp/1.7.7.RELEASE/spring-amqp-1.7.7.RELEASE.jar!/org/springframework/amqp/core/AmqpTemplate.class">
+      <file leaf-file-name="application.yml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/config/config-client-refresh-cloud-bus/src/main/resources/application.yml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="405">
-              <caret line="18" column="30" lean-forward="false" selection-start-line="18" selection-start-column="24" selection-end-line="18" selection-end-column="30" />
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -203,23 +254,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/hystrix/ms-provider-user/src/main/java/com/dl/cloud/msprovideruser/controller/UserController.java" />
-        <option value="$PROJECT_DIR$/hystrix/ms-consumer-order-ribbon-hystrix-thread-isolation/src/main/resources/application.yml" />
-        <option value="$PROJECT_DIR$/hystrix2/eureka-server/pom.xml" />
-        <option value="$PROJECT_DIR$/hystrix2/eureka-server/src/main/java/com/dl/eurekaserver/EurekaServerApplication.java" />
-        <option value="$PROJECT_DIR$/hystrix2/provider-user/pom.xml" />
-        <option value="$PROJECT_DIR$/hystrix2/provider-user/src/main/java/com/dl/provideruser/ProviderUserApplication.java" />
-        <option value="$PROJECT_DIR$/hystrix2/provider-user/src/main/java/com/dl/provideruser/repository/UserRepository.java" />
-        <option value="$PROJECT_DIR$/hystrix2/provider-user/src/main/java/com/dl/provideruser/controller/UserController.java" />
-        <option value="$PROJECT_DIR$/hystrix2/hystrix-turbine/pom.xml" />
-        <option value="$PROJECT_DIR$/hystrix2/hystrix-turbine/src/main/java/com/dl/hystrixturbine/HystrixTurbineApplication.java" />
-        <option value="$PROJECT_DIR$/hystrix2/hystrix-dashboard/pom.xml" />
-        <option value="$PROJECT_DIR$/hystrix2/hystrix-dashboard/src/main/java/com/dl/hystrixdashboard/HystrixDashboardApplication.java" />
-        <option value="$PROJECT_DIR$/hystrix2/consumer-order-ribbon-hystrix-fallback/pom.xml" />
-        <option value="$PROJECT_DIR$/hystrix2/consumer-order-ribbon-hystrix-fallback/src/main/java/com/dl/consumerorderribbonhystrixfallback/ConsumerOrderRibbonHystrixFallbackApplication.java" />
-        <option value="$PROJECT_DIR$/hystrix2/consumer-order-ribbon-hystrix-fallback/src/main/java/com/dl/consumerorderribbonhystrixfallback/user/controller/OrderController.java" />
-        <option value="$PROJECT_DIR$/hystrix2/consumer-order-feign-hystrix-fallback-stream/pom.xml" />
-        <option value="$PROJECT_DIR$/hystrix2/consumer-order-feign-hystrix-fallback-stream/src/main/java/com/dl/consumerorderfeignhystrixfallbackstream/ConsumerOrderFeignHystrixFallbackStreamApplication.java" />
         <option value="$PROJECT_DIR$/hystrix2/consumer-order-feign-hystrix-fallback-stream/src/main/java/com/dl/consumerorderfeignhystrixfallbackstream/user/controller/OrderController.java" />
         <option value="$PROJECT_DIR$/hystrix2/consumer-order-feign-hystrix-fallback-stream/src/main/java/com/dl/consumerorderfeignhystrixfallbackstream/user/feign/UserFeignClient.java" />
         <option value="$PROJECT_DIR$/hystrix2/consumer-order-feign-hystrix-fallback/pom.xml" />
@@ -254,6 +288,23 @@
         <option value="$PROJECT_DIR$/monster/rabbitmq/src/main/java/com/dl/rabbitmq/RabbitConfig.java" />
         <option value="$PROJECT_DIR$/monster/rabbitmq/pom.xml" />
         <option value="$PROJECT_DIR$/monster/rabbitmq/src/test/java/com/dl/rabbitmq/RabbitmqApplicationTests.java" />
+        <option value="$PROJECT_DIR$/config/config-server-refresh-cloud-bus/pom.xml" />
+        <option value="$PROJECT_DIR$/config/config-server-refresh-cloud-bus/src/main/java/com/dl/configserverrefreshcloudbus/ConfigServerRefreshCloudBusApplication.java" />
+        <option value="$PROJECT_DIR$/config/config-server-eureka/pom.xml" />
+        <option value="$PROJECT_DIR$/config/config-server-eureka/src/main/java/com/dl/configservereureka/ConfigServerEurekaApplication.java" />
+        <option value="$PROJECT_DIR$/config/config-server-encryption/pom.xml" />
+        <option value="$PROJECT_DIR$/config/config-server-encryption/src/main/java/com/dl/configserverencryption/ConfigServerEncryptionApplication.java" />
+        <option value="$PROJECT_DIR$/config/config-server-authenticating/pom.xml" />
+        <option value="$PROJECT_DIR$/config/config-server-authenticating/src/main/java/com/dl/configserverauthenticating/ConfigServerAuthenticatingApplication.java" />
+        <option value="$PROJECT_DIR$/config/config-server/pom.xml" />
+        <option value="$PROJECT_DIR$/config/config-server/src/main/java/com/dl/configserver/ConfigServerApplication.java" />
+        <option value="$PROJECT_DIR$/config/config-client-refresh-cloud-bus/pom.xml" />
+        <option value="$PROJECT_DIR$/config/config-client-refresh-cloud-bus/src/main/java/com/dl/configclientrefreshcloudbus/ConfigClientRefreshCloudBusApplication.java" />
+        <option value="$PROJECT_DIR$/config/config-client-refresh/pom.xml" />
+        <option value="$PROJECT_DIR$/config/config-client-eureka/pom.xml" />
+        <option value="$PROJECT_DIR$/config/config-client-eureka/src/main/java/com/dl/configclienteureka/ConfigClientEurekaApplication.java" />
+        <option value="$PROJECT_DIR$/config/config-client-authenticating/pom.xml" />
+        <option value="$PROJECT_DIR$/config/config-client/pom.xml" />
       </list>
     </option>
   </component>
@@ -325,74 +376,11 @@
           <expand>
             <path>
               <item name="daydayup" type="b2602c69:ProjectViewProjectNode" />
-              <item name="monster" type="462c0819:PsiDirectoryNode" />
+              <item name="config" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="daydayup" type="b2602c69:ProjectViewProjectNode" />
-              <item name="monster" type="462c0819:PsiDirectoryNode" />
-              <item name="rabbitmq" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="daydayup" type="b2602c69:ProjectViewProjectNode" />
-              <item name="monster" type="462c0819:PsiDirectoryNode" />
-              <item name="rabbitmq" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="daydayup" type="b2602c69:ProjectViewProjectNode" />
-              <item name="monster" type="462c0819:PsiDirectoryNode" />
-              <item name="rabbitmq" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="daydayup" type="b2602c69:ProjectViewProjectNode" />
-              <item name="monster" type="462c0819:PsiDirectoryNode" />
-              <item name="rabbitmq" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="daydayup" type="b2602c69:ProjectViewProjectNode" />
-              <item name="monster" type="462c0819:PsiDirectoryNode" />
-              <item name="rabbitmq" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="rabbitmq" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="daydayup" type="b2602c69:ProjectViewProjectNode" />
-              <item name="monster" type="462c0819:PsiDirectoryNode" />
-              <item name="rabbitmq" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="daydayup" type="b2602c69:ProjectViewProjectNode" />
-              <item name="monster" type="462c0819:PsiDirectoryNode" />
-              <item name="rabbitmq" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="daydayup" type="b2602c69:ProjectViewProjectNode" />
-              <item name="monster" type="462c0819:PsiDirectoryNode" />
-              <item name="rabbitmq" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="daydayup" type="b2602c69:ProjectViewProjectNode" />
-              <item name="monster" type="462c0819:PsiDirectoryNode" />
-              <item name="rabbitmq" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="rabbitmq" type="462c0819:PsiDirectoryNode" />
+              <item name="hystrix2" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -405,7 +393,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../08-Eureka集群&amp;客户端监控，微服务统一网关实现框架zuul-诸葛/Eureka集群&amp;客户端监控&amp;Zuul详解" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../09-微服务统一网关实现框架zuul-诸葛/zuul微服务网关详解" />
     <property name="project.structure.last.edited" value="Facets" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -418,12 +406,17 @@
     <property name="RequestMappingsPanelOrder2" value="2" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\daydayup\daydayup\hystrix2" />
+      <recent name="E:\daydayup\daydayup\hystrix" />
+      <recent name="E:\daydayup\daydayup\config" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="E:\daydayup\daydayup\zuul\consumer-order-ribbon\src\main\java\com\zuul\consumerorderribbon" />
-      <recent name="E:\daydayup\daydayup\zuul\consumer-order-ribbon\src\main\resources" />
-      <recent name="E:\daydayup\daydayup\zuul\eureka-server\src\main\resources" />
-      <recent name="E:\daydayup\daydayup\zuul\eureka-server-ha\src\main\resources" />
-      <recent name="E:\daydayup\daydayup\zuul\gate-zuul\src\main\resources" />
+      <recent name="E:\daydayup\daydayup\config\config-client\src\main\java\com\dl\configclient" />
+      <recent name="E:\daydayup\daydayup\config\config-client\src\main\resources" />
+      <recent name="E:\daydayup\daydayup\config\config-client-authenticating\src\main\java\com\dl\configclientauthenticating" />
+      <recent name="E:\daydayup\daydayup\config\config-client-authenticating\src\main\resources" />
+      <recent name="E:\daydayup\daydayup\config\config-client-eureka\src\main\java\com\dl\configclienteureka" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -439,6 +432,83 @@
     </option>
   </component>
   <component name="RunManager" selected="JUnit.RabbitmqApplicationTests.hello">
+    <configuration name="ConfigApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.dl.config.ConfigApplication" />
+      <option name="SHOW_IN_DASHBOARD" value="true" />
+      <module name="config" />
+      <envs />
+    </configuration>
+    <configuration name="ConfigClientApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.dl.configclient.ConfigClientApplication" />
+      <option name="SHOW_IN_DASHBOARD" value="true" />
+      <module name="config-client" />
+      <envs />
+    </configuration>
+    <configuration name="ConfigClientAuthenticatingApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.dl.configclientauthenticating.ConfigClientAuthenticatingApplication" />
+      <option name="SHOW_IN_DASHBOARD" value="true" />
+      <module name="config-client-authenticating" />
+      <envs />
+    </configuration>
+    <configuration name="ConfigClientEurekaApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.dl.configclienteureka.ConfigClientEurekaApplication" />
+      <option name="SHOW_IN_DASHBOARD" value="true" />
+      <module name="config-client-eureka" />
+      <envs />
+    </configuration>
+    <configuration name="ConfigClientRefreshApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.dl.configclientrefresh.ConfigClientRefreshApplication" />
+      <option name="SHOW_IN_DASHBOARD" value="true" />
+      <module name="config-client-refresh" />
+      <envs />
+    </configuration>
+    <configuration name="ConfigClientRefreshCloudBusApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.dl.configclientrefreshcloudbus.ConfigClientRefreshCloudBusApplication" />
+      <option name="SHOW_IN_DASHBOARD" value="true" />
+      <module name="config-client-refresh-cloud-bus" />
+      <envs />
+    </configuration>
+    <configuration name="ConfigServerApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.dl.configserver.ConfigServerApplication" />
+      <option name="SHOW_IN_DASHBOARD" value="true" />
+      <module name="config-server" />
+      <envs />
+    </configuration>
+    <configuration name="ConfigServerAuthenticatingApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.dl.configserverauthenticating.ConfigServerAuthenticatingApplication" />
+      <option name="SHOW_IN_DASHBOARD" value="true" />
+      <module name="config-server-authenticating" />
+      <envs />
+    </configuration>
+    <configuration name="ConfigServerEncryptionApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.dl.configserverencryption.ConfigServerEncryptionApplication" />
+      <option name="SHOW_IN_DASHBOARD" value="true" />
+      <module name="config-server-encryption" />
+      <envs />
+    </configuration>
+    <configuration name="ConfigServerEurekaApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.dl.configservereureka.ConfigServerEurekaApplication" />
+      <option name="SHOW_IN_DASHBOARD" value="true" />
+      <module name="config-server-eureka" />
+      <envs />
+    </configuration>
+    <configuration name="ConfigServerRefreshCloudBusApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.dl.configserverrefreshcloudbus.ConfigServerRefreshCloudBusApplication" />
+      <option name="SHOW_IN_DASHBOARD" value="true" />
+      <module name="config-server-refresh-cloud-bus" />
+      <envs />
+    </configuration>
     <configuration name="ConsumerOrderFeignHystrixFallbackApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="com.dl.consumerorderfeignhystrixfallback.ConsumerOrderFeignHystrixFallbackApplication" />
@@ -1099,7 +1169,7 @@
     <configuration default="true" type="osgi.bnd.run" factoryName="Test Launcher (JUnit)">
       <method />
     </configuration>
-    <list size="31">
+    <list size="42">
       <item index="0" class="java.lang.String" itemvalue="Spring Boot.MsConsumerOrderRibbonCustomizingApplication" />
       <item index="1" class="java.lang.String" itemvalue="Spring Boot.Swagger1Application" />
       <item index="2" class="java.lang.String" itemvalue="Spring Boot.HystrixApplication" />
@@ -1131,6 +1201,17 @@
       <item index="28" class="java.lang.String" itemvalue="Application.MsConsumerOrderRibbonHystrixThreadIsolationApplication" />
       <item index="29" class="java.lang.String" itemvalue="JUnit.RabbitmqApplicationTests.hello" />
       <item index="30" class="java.lang.String" itemvalue="JUnit.RabbitmqApplicationTests" />
+      <item index="31" class="java.lang.String" itemvalue="Spring Boot.ConfigApplication" />
+      <item index="32" class="java.lang.String" itemvalue="Spring Boot.ConfigClientApplication" />
+      <item index="33" class="java.lang.String" itemvalue="Spring Boot.ConfigClientAuthenticatingApplication" />
+      <item index="34" class="java.lang.String" itemvalue="Spring Boot.ConfigClientRefreshApplication" />
+      <item index="35" class="java.lang.String" itemvalue="Spring Boot.ConfigClientEurekaApplication" />
+      <item index="36" class="java.lang.String" itemvalue="Spring Boot.ConfigClientRefreshCloudBusApplication" />
+      <item index="37" class="java.lang.String" itemvalue="Spring Boot.ConfigServerApplication" />
+      <item index="38" class="java.lang.String" itemvalue="Spring Boot.ConfigServerAuthenticatingApplication" />
+      <item index="39" class="java.lang.String" itemvalue="Spring Boot.ConfigServerEncryptionApplication" />
+      <item index="40" class="java.lang.String" itemvalue="Spring Boot.ConfigServerEurekaApplication" />
+      <item index="41" class="java.lang.String" itemvalue="Spring Boot.ConfigServerRefreshCloudBusApplication" />
     </list>
     <recent_temporary>
       <list size="5">
@@ -1170,7 +1251,7 @@
       <workItem from="1528266547873" duration="6265000" />
       <workItem from="1528372621978" duration="2320000" />
       <workItem from="1528420811664" duration="5524000" />
-      <workItem from="1528427891764" duration="327000" />
+      <workItem from="1528427891764" duration="3501000" />
     </task>
     <servers />
   </component>
@@ -1204,11 +1285,10 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="39044000" />
+    <option name="totallyTimeSpent" value="42218000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -1225,7 +1305,7 @@
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.21268657" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.21268657" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Bean Validation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -1254,216 +1334,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/zuul/provider-user/pom.xml">
-      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer">
-        <state />
-      </provider>
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="761">
-          <caret line="68" column="27" lean-forward="false" selection-start-line="68" selection-start-column="27" selection-end-line="68" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/zuul/provider-user/src/main/resources/application-ha.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/zuul/provider-user/src/main/resources/application-autherntication.yml.bak">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/zuul/spring-boot-admin/pom.xml">
-      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer">
-        <state />
-      </provider>
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="486">
-          <caret line="18" column="36" lean-forward="true" selection-start-line="18" selection-start-column="36" selection-end-line="18" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/zuul/spring-boot-admin/src/main/java/com/zuul/springbootadmin/SpringBootAdminApplication.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="297">
-          <caret line="11" column="18" lean-forward="true" selection-start-line="11" selection-start-column="18" selection-end-line="11" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/zuul/provider-user/src/main/java/com/zuul/provideruser/repository/UserRepository.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="5" column="0" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/zuul/gateway-zuul-filter/pom.xml">
-      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer">
-        <state />
-      </provider>
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="783">
-          <caret line="47" column="27" lean-forward="false" selection-start-line="47" selection-start-column="27" selection-end-line="47" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/zuul/gateway-zuul-fallback/pom.xml">
-      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer">
-        <state />
-      </provider>
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1269">
-          <caret line="47" column="27" lean-forward="false" selection-start-line="47" selection-start-column="27" selection-end-line="47" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/zuul/gateway-zuul-fallback/src/main/java/com/zuul/gatewayzuulfallback/fallback/UserFallbackProvider.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="20" column="13" lean-forward="false" selection-start-line="20" selection-start-column="13" selection-end-line="20" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/zuul/gateway-zuul-aggregation/pom.xml">
-      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer">
-        <state />
-      </provider>
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="761">
-          <caret line="56" column="0" lean-forward="false" selection-start-line="56" selection-start-column="0" selection-end-line="56" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/zuul/gate-zuul/pom.xml">
-      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer">
-        <state />
-      </provider>
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="702">
-          <caret line="47" column="27" lean-forward="false" selection-start-line="47" selection-start-column="27" selection-end-line="47" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/zuul/eureka-server-ha/pom.xml">
-      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer">
-        <state />
-      </provider>
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="675">
-          <caret line="43" column="27" lean-forward="false" selection-start-line="43" selection-start-column="27" selection-end-line="43" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/zuul/eureka-server-ha/src/main/resources/application.properties" />
-    <entry file="file://$PROJECT_DIR$/zuul/eureka-server-ha/src/main/java/com/zuul/eurekaserverha/EurekaServerHaApplication.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="10" column="19" lean-forward="false" selection-start-line="10" selection-start-column="19" selection-end-line="10" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/zuul/eureka-server/pom.xml">
-      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer">
-        <state />
-      </provider>
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="594">
-          <caret line="43" column="27" lean-forward="false" selection-start-line="43" selection-start-column="27" selection-end-line="43" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/zuul/consumer-order-ribbon/pom.xml">
-      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer">
-        <state />
-      </provider>
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="761">
-          <caret line="52" column="27" lean-forward="false" selection-start-line="52" selection-start-column="27" selection-end-line="52" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/zuul/eureka-server-ha/src/main/resources/application.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/zuul/eureka-server-ha/src/main/resources/application-easy.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/zuul/eureka-server/src/main/java/com/zuul/eurekaserver/EurekaServerApplication.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="10" column="19" lean-forward="false" selection-start-line="10" selection-start-column="19" selection-end-line="10" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/zuul/eureka-server/src/main/resources/application.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/zuul/provider-user/src/main/resources/application.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/zuul/provider-user/src/main/java/com/zuul/provideruser/controller/UserController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-9">
-          <caret line="18" column="35" lean-forward="false" selection-start-line="18" selection-start-column="35" selection-end-line="18" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/zuul/provider-user/src/main/java/com/zuul/provideruser/ProviderUserApplication.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="189">
-          <caret line="7" column="22" lean-forward="false" selection-start-line="7" selection-start-column="22" selection-end-line="7" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/zuul/consumer-order-ribbon/src/main/resources/application.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/zuul/consumer-order-ribbon/src/main/java/com/zuul/consumerorderribbon/ConsumerOrderRibbonApplication.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="162">
-          <caret line="11" column="13" lean-forward="false" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/zuul/consumer-order-ribbon/src/main/java/com/zuul/consumerorderribbon/user/controller/OrderController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="15" column="13" lean-forward="false" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/zuul/gate-zuul/src/main/java/com/zuul/gatezuul/GateZuulApplication.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="10" column="16" lean-forward="false" selection-start-line="10" selection-start-column="16" selection-end-line="10" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/zuul/gate-zuul/src/main/resources/application.yml.bak">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -1506,27 +1376,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/zuul/gateway-zuul-aggregation/src/main/java/com/zuul/gatewayzuulaggregation/User.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="108">
-          <caret line="4" column="13" lean-forward="false" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/zuul/gateway-zuul-aggregation/src/main/java/com/zuul/gatewayzuulaggregation/AggregationController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="486">
-          <caret line="27" column="16" lean-forward="false" selection-start-line="27" selection-start-column="16" selection-end-line="27" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/zuul/gateway-zuul-aggregation/src/main/java/com/zuul/gatewayzuulaggregation/GatewayZuulAggregationApplication.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="162">
-          <caret line="11" column="46" lean-forward="false" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="46" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/zuul/gateway-zuul-aggregation/src/main/resources/application.yml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -1538,20 +1387,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/zuul/gateway-zuul-fallback/src/main/java/com/zuul/gatewayzuulfallback/GatewayZuulFallbackApplication.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="7" column="16" lean-forward="false" selection-start-line="7" selection-start-column="16" selection-end-line="7" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/zuul/gateway-zuul-fallback/src/main/java/com/zuul/gatewayzuulfallback/fallback/MyFallbackProvider.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="459">
-          <caret line="28" column="25" lean-forward="false" selection-start-line="28" selection-start-column="25" selection-end-line="28" selection-end-column="25" />
         </state>
       </provider>
     </entry>
@@ -1567,7 +1402,7 @@
         <state relative-caret-position="189">
           <caret line="11" column="13" lean-forward="false" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="imports" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1593,7 +1428,7 @@
         <state relative-caret-position="405">
           <caret line="19" column="47" lean-forward="false" selection-start-line="19" selection-start-column="42" selection-end-line="19" selection-end-column="47" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="imports" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1603,9 +1438,9 @@
         <state relative-caret-position="54">
           <caret line="4" column="48" lean-forward="false" selection-start-line="4" selection-start-column="48" selection-end-line="4" selection-end-column="48" />
           <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#376#377#0" expanded="true" />
-            <element signature="e#433#434#0" expanded="true" />
+            <element signature="imports" expanded="false" />
+            <element signature="e#376#377#0" expanded="false" />
+            <element signature="e#433#434#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1615,9 +1450,9 @@
         <state relative-caret-position="351">
           <caret line="16" column="21" lean-forward="false" selection-start-line="16" selection-start-column="21" selection-end-line="16" selection-end-column="21" />
           <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#283#284#0" expanded="true" />
-            <element signature="e#324#325#0" expanded="true" />
+            <element signature="imports" expanded="false" />
+            <element signature="e#283#284#0" expanded="false" />
+            <element signature="e#324#325#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1646,8 +1481,8 @@
         <state relative-caret-position="135">
           <caret line="6" column="13" lean-forward="false" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
           <folding>
-            <element signature="e#246#247#0" expanded="true" />
-            <element signature="e#307#308#0" expanded="true" />
+            <element signature="e#246#247#0" expanded="false" />
+            <element signature="e#307#308#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1655,7 +1490,296 @@
     <entry file="file://$PROJECT_DIR$/monster/rabbitmq/src/test/java/com/dl/rabbitmq/RabbitmqApplicationTests.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="432">
-          <caret line="21" column="0" lean-forward="true" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
+          <caret line="21" column="0" lean-forward="false" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zuul/gateway-zuul-aggregation/src/main/java/com/zuul/gatewayzuulaggregation/AggregationController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="486">
+          <caret line="27" column="16" lean-forward="false" selection-start-line="27" selection-start-column="16" selection-end-line="27" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zuul/gateway-zuul-aggregation/src/main/java/com/zuul/gatewayzuulaggregation/User.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="4" column="13" lean-forward="false" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zuul/gateway-zuul-aggregation/src/main/java/com/zuul/gatewayzuulaggregation/GatewayZuulAggregationApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="21" column="0" lean-forward="false" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zuul/gateway-zuul-fallback/src/main/java/com/zuul/gatewayzuulfallback/GatewayZuulFallbackApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="7" column="16" lean-forward="false" selection-start-line="7" selection-start-column="16" selection-end-line="7" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zuul/gateway-zuul-fallback/src/main/java/com/zuul/gatewayzuulfallback/fallback/UserFallbackProvider.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="20" column="13" lean-forward="false" selection-start-line="20" selection-start-column="13" selection-end-line="20" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/mvnw.cmd">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zuul/gateway-zuul-fallback/src/main/java/com/zuul/gatewayzuulfallback/fallback/MyFallbackProvider.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="35">
+          <caret line="54" column="40" lean-forward="false" selection-start-line="54" selection-start-column="40" selection-end-line="54" selection-end-column="40" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/pom.xml">
+      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/config-server-refresh-cloud-bus/pom.xml">
+      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="702">
+          <caret line="47" column="27" lean-forward="false" selection-start-line="47" selection-start-column="27" selection-end-line="47" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/config-server-refresh-cloud-bus/src/main/java/com/dl/configserverrefreshcloudbus/ConfigServerRefreshCloudBusApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="7" column="19" lean-forward="false" selection-start-line="7" selection-start-column="19" selection-end-line="7" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/config-server-refresh-cloud-bus/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="12" column="28" lean-forward="false" selection-start-line="12" selection-start-column="23" selection-end-line="12" selection-end-column="28" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/config-server-eureka/pom.xml">
+      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="702">
+          <caret line="47" column="27" lean-forward="false" selection-start-line="47" selection-start-column="27" selection-end-line="47" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/config-server-eureka/src/main/java/com/dl/configservereureka/ConfigServerEurekaApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="9" column="19" lean-forward="false" selection-start-line="9" selection-start-column="19" selection-end-line="9" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/config-server-encryption/pom.xml">
+      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="513">
+          <caret line="43" column="27" lean-forward="false" selection-start-line="43" selection-start-column="27" selection-end-line="43" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/config-server-encryption/src/main/java/com/dl/configserverencryption/ConfigServerEncryptionApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="7" column="19" lean-forward="false" selection-start-line="7" selection-start-column="19" selection-end-line="7" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/config-server-authenticating/pom.xml">
+      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="702">
+          <caret line="47" column="27" lean-forward="false" selection-start-line="47" selection-start-column="27" selection-end-line="47" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/config-server-authenticating/src/main/java/com/dl/configserverauthenticating/ConfigServerAuthenticatingApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="7" column="19" lean-forward="false" selection-start-line="7" selection-start-column="19" selection-end-line="7" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/config-server/pom.xml">
+      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="594">
+          <caret line="43" column="27" lean-forward="false" selection-start-line="43" selection-start-column="27" selection-end-line="43" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/config-server/src/main/java/com/dl/configserver/ConfigServerApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="7" column="19" lean-forward="false" selection-start-line="7" selection-start-column="19" selection-end-line="7" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/config-client-refresh-cloud-bus/pom.xml">
+      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="761">
+          <caret line="56" column="0" lean-forward="false" selection-start-line="56" selection-start-column="0" selection-end-line="56" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/config-client-refresh-cloud-bus/src/main/java/com/dl/configclientrefreshcloudbus/ConfigClientRefreshCloudBusApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="5" column="22" lean-forward="false" selection-start-line="5" selection-start-column="22" selection-end-line="5" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/config-client-refresh-cloud-bus/src/main/java/com/dl/configclientrefreshcloudbus/controller/ConfigClientController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="9" column="13" lean-forward="false" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/config-client-refresh-cloud-bus/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/config-client-refresh-cloud-bus/src/main/resources/bootstrap.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/config-client-refresh/pom.xml">
+      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="729">
+          <caret line="51" column="27" lean-forward="false" selection-start-line="51" selection-start-column="27" selection-end-line="51" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/config-client-refresh/src/main/java/com/dl/configclientrefresh/controller/ConfigClientController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="9" column="13" lean-forward="false" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/config-client-eureka/pom.xml">
+      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="729">
+          <caret line="51" column="27" lean-forward="false" selection-start-line="51" selection-start-column="27" selection-end-line="51" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/config-client-eureka/src/main/java/com/dl/configclienteureka/ConfigClientEurekaApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="7" column="19" lean-forward="false" selection-start-line="7" selection-start-column="19" selection-end-line="7" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/config-client-eureka/src/main/java/com/dl/configclienteureka/controller/ConfigClientController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="7" column="13" lean-forward="false" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/config-client-authenticating/pom.xml">
+      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="572">
+          <caret line="47" column="27" lean-forward="false" selection-start-line="47" selection-start-column="27" selection-end-line="47" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/config-client-authenticating/src/main/java/com/dl/configclientauthenticating/controller/ConfigClientController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="7" column="13" lean-forward="false" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/config-client/pom.xml">
+      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="302">
+          <caret line="37" column="26" lean-forward="true" selection-start-line="37" selection-start-column="26" selection-end-line="37" selection-end-column="26" />
           <folding />
         </state>
       </provider>

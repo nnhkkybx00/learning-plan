@@ -40,6 +40,17 @@
         <option value="$PROJECT_DIR$/zuul/consumer-order-ribbon/pom.xml" />
         <option value="$PROJECT_DIR$/zuul/spring-boot-admin/pom.xml" />
         <option value="$PROJECT_DIR$/monster/rabbitmq/pom.xml" />
+        <option value="$PROJECT_DIR$/config/pom.xml" />
+        <option value="$PROJECT_DIR$/config/config-client/pom.xml" />
+        <option value="$PROJECT_DIR$/config/config-client-authenticating/pom.xml" />
+        <option value="$PROJECT_DIR$/config/config-client-eureka/pom.xml" />
+        <option value="$PROJECT_DIR$/config/config-client-refresh/pom.xml" />
+        <option value="$PROJECT_DIR$/config/config-client-refresh-cloud-bus/pom.xml" />
+        <option value="$PROJECT_DIR$/config/config-server/pom.xml" />
+        <option value="$PROJECT_DIR$/config/config-server-authenticating/pom.xml" />
+        <option value="$PROJECT_DIR$/config/config-server-encryption/pom.xml" />
+        <option value="$PROJECT_DIR$/config/config-server-eureka/pom.xml" />
+        <option value="$PROJECT_DIR$/config/config-server-refresh-cloud-bus/pom.xml" />
       </list>
     </option>
   </component>
