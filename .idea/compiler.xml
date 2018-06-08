@@ -36,6 +36,7 @@
         <module name="ms-provider-user" />
         <module name="ms-provider-user-api" />
         <module name="provider-user" />
+        <module name="rabbitmq" />
         <module name="spring-boot-admin" />
         <module name="swagger1" />
         <module name="swagger2" />
@@ -75,6 +76,7 @@
       <module name="ms-provider-user" target="1.8" />
       <module name="ms-provider-user-api" target="1.8" />
       <module name="provider-user" target="1.8" />
+      <module name="rabbitmq" target="1.8" />
       <module name="spring-boot-admin" target="1.5" />
       <module name="swagger1" target="1.8" />
       <module name="swagger2" target="1.8" />

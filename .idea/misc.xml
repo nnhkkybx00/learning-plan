@@ -39,6 +39,7 @@
         <option value="$PROJECT_DIR$/zuul/eureka-server/pom.xml" />
         <option value="$PROJECT_DIR$/zuul/consumer-order-ribbon/pom.xml" />
         <option value="$PROJECT_DIR$/zuul/spring-boot-admin/pom.xml" />
+        <option value="$PROJECT_DIR$/monster/rabbitmq/pom.xml" />
       </list>
     </option>
   </component>
