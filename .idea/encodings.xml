@@ -37,6 +37,13 @@
     <file url="file://$PROJECT_DIR$/monster/ms-provider-user" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/monster/ms-provider-user-api" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/monster/rabbitmq" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/sleuth" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/sleuth/consumer-order-trace" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/sleuth/consumer-order-trace-zipkin" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/sleuth/provider-user-trace" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/sleuth/provider-user-trace-zipkin" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/sleuth/trace-zipkin-server" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/sleuth/trace-zipkin-server-elasticsearch" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/swagger1" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/swagger2" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/zuul" charset="UTF-8" />

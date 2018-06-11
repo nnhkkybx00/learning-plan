@@ -51,6 +51,13 @@
         <option value="$PROJECT_DIR$/config/config-server-encryption/pom.xml" />
         <option value="$PROJECT_DIR$/config/config-server-eureka/pom.xml" />
         <option value="$PROJECT_DIR$/config/config-server-refresh-cloud-bus/pom.xml" />
+        <option value="$PROJECT_DIR$/sleuth/pom.xml" />
+        <option value="$PROJECT_DIR$/sleuth/consumer-order-trace/pom.xml" />
+        <option value="$PROJECT_DIR$/sleuth/consumer-order-trace-zipkin/pom.xml" />
+        <option value="$PROJECT_DIR$/sleuth/provider-user-trace/pom.xml" />
+        <option value="$PROJECT_DIR$/sleuth/provider-user-trace-zipkin/pom.xml" />
+        <option value="$PROJECT_DIR$/sleuth/trace-zipkin-server/pom.xml" />
+        <option value="$PROJECT_DIR$/sleuth/trace-zipkin-server-elasticsearch/pom.xml" />
       </list>
     </option>
   </component>

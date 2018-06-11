@@ -10,7 +10,7 @@ eureka:
   instance:
     prefer-ip-address: true
 turbine:
-  appConfig: microservice-consumer-order,microservice-consumer-order-feign-hystrix-fallback-stream
+  appConfig: microservice-consumer-order,MICROSERVICE-CONSUMER-ORDER-FEIGN-HYSTRIX-FALLBACK-STREAM
   clusterNameExpression: "'default'"
   
   

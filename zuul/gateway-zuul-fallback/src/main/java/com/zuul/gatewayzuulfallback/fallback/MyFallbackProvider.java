@@ -19,6 +19,8 @@ public class MyFallbackProvider implements FallbackProvider {
   public String getRoute() {
     // 表明是为哪个微服务提供回退，*表示为所有微服务提供回退
     return "*";
+//    return "microservice-provider-user";
+//    return "";
   }
 
   @Override

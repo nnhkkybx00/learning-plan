@@ -9,7 +9,7 @@ import org.springframework.cloud.netflix.feign.EnableFeignClients;
 @EnableDiscoveryClient
 @SpringBootApplication
 @EnableFeignClients
-@EnableCircuitBreaker
+@EnableCircuitBreaker //监控
 public class ConsumerOrderFeignHystrixFallbackStreamApplication {
 
 	public static void main(String[] args) {
