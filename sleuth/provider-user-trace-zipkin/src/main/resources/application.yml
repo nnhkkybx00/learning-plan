@@ -17,3 +17,4 @@ spring:
   sleuth:
     sampler:
       percentage: 0.1
+#微服务整合Zipkin
