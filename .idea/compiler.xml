@@ -29,6 +29,8 @@
         <module name="cookie-demo" />
         <module name="cookie-demo1" />
         <module name="eureka-server" />
+        <module name="eureka-server (1) (com.dl)" />
+        <module name="eureka-server (2) (com.zuul)" />
         <module name="eureka-server-ha" />
         <module name="gate-zuul" />
         <module name="gateway-zuul-aggregation" />
@@ -49,9 +51,15 @@
         <module name="ms-consumer-order-ribbon-hystrix-thread-isolation" />
         <module name="ms-consumer-order-ribbon-without-eureka" />
         <module name="ms-eureka-server" />
+        <module name="ms-eureka-server (1) (com.dl.cloud)" />
+        <module name="ms-eureka-server (2) (com.dl)" />
         <module name="ms-provider-user" />
+        <module name="ms-provider-user (1) (com.dl.cloud)" />
+        <module name="ms-provider-user (2) (com.dl)" />
         <module name="ms-provider-user-api" />
         <module name="provider-user" />
+        <module name="provider-user (1) (com.dl)" />
+        <module name="provider-user (2) (com.zuul)" />
         <module name="provider-user-trace" />
         <module name="provider-user-trace-zipkin" />
         <module name="rabbitmq" />
@@ -91,6 +99,8 @@
       <module name="cookie-demo1" target="1.8" />
       <module name="demo-cookie" target="1.8" />
       <module name="eureka-server" target="1.8" />
+      <module name="eureka-server (1) (com.dl)" target="1.8" />
+      <module name="eureka-server (2) (com.zuul)" target="1.8" />
       <module name="eureka-server-ha" target="1.8" />
       <module name="gate-zuul" target="1.8" />
       <module name="gateway-zuul-aggregation" target="1.8" />
@@ -111,9 +121,15 @@
       <module name="ms-consumer-order-ribbon-hystrix-thread-isolation" target="1.8" />
       <module name="ms-consumer-order-ribbon-without-eureka" target="1.8" />
       <module name="ms-eureka-server" target="1.8" />
+      <module name="ms-eureka-server (1) (com.dl.cloud)" target="1.8" />
+      <module name="ms-eureka-server (2) (com.dl)" target="1.8" />
       <module name="ms-provider-user" target="1.8" />
+      <module name="ms-provider-user (1) (com.dl.cloud)" target="1.8" />
+      <module name="ms-provider-user (2) (com.dl)" target="1.8" />
       <module name="ms-provider-user-api" target="1.8" />
       <module name="provider-user" target="1.8" />
+      <module name="provider-user (1) (com.dl)" target="1.8" />
+      <module name="provider-user (2) (com.zuul)" target="1.8" />
       <module name="provider-user-trace" target="1.8" />
       <module name="provider-user-trace-zipkin" target="1.8" />
       <module name="rabbitmq" target="1.8" />

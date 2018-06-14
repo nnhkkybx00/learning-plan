@@ -1,6 +1,7 @@
 <component name="libraryTable">
   <library name="Maven: io.zipkin.zipkin2:zipkin-storage-elasticsearch:2.8.4">
     <CLASSES>
+<<<<<<< HEAD
       <root url="jar://$USER_HOME$/.m2/repository/io/zipkin/zipkin2/zipkin-storage-elasticsearch/2.8.4/zipkin-storage-elasticsearch-2.8.4.jar!/" />
     </CLASSES>
     <JAVADOC>
@@ -8,6 +9,15 @@
     </JAVADOC>
     <SOURCES>
       <root url="jar://$USER_HOME$/.m2/repository/io/zipkin/zipkin2/zipkin-storage-elasticsearch/2.8.4/zipkin-storage-elasticsearch-2.8.4-sources.jar!/" />
+=======
+      <root url="jar://$MAVEN_REPOSITORY$/io/zipkin/zipkin2/zipkin-storage-elasticsearch/2.8.4/zipkin-storage-elasticsearch-2.8.4.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/io/zipkin/zipkin2/zipkin-storage-elasticsearch/2.8.4/zipkin-storage-elasticsearch-2.8.4-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/io/zipkin/zipkin2/zipkin-storage-elasticsearch/2.8.4/zipkin-storage-elasticsearch-2.8.4-sources.jar!/" />
+>>>>>>> 9c75c6bd79e4bcb1daaadb4238be9abf27c66b78
     </SOURCES>
   </library>
 </component>
