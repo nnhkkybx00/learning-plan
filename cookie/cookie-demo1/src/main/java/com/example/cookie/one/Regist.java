@@ -39,6 +39,7 @@ public class Regist {
 //        cookie.setMaxAge(0);//删除当前cookie
         //把cookie写入浏览器
         response.addCookie(cookie);
+//        Cookie[] cookies = request.getCookies();
 
 
         return "regist1";
