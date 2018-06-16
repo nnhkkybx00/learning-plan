@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ed6b43d1-f597-4715-93e7-21ef09896620" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/cookie/cookie-demo1/src/main/java/com/example/cookie/one/Regist.java" beforeDir="false" afterPath="$PROJECT_DIR$/cookie/cookie-demo1/src/main/java/com/example/cookie/one/Regist.java" afterDir="false" />
-    </list>
+    <list default="true" id="ed6b43d1-f597-4715-93e7-21ef09896620" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/config/target/" />
     <ignored path="$PROJECT_DIR$/config/config-client-eureka/target/" />
@@ -129,9 +127,9 @@
   <component name="NodePackageJsonFileManager">
     <packageJsonPaths />
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="340" />
-    <option name="y" value="32" />
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
     <option name="width" value="1936" />
     <option name="height" value="1056" />
   </component>
@@ -315,12 +313,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1529115499047</updated>
-      <workItem from="1529115513580" duration="15740000" />
+      <workItem from="1529115513580" duration="16336000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="15740000" />
+    <option name="totallyTimeSpent" value="16336000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
