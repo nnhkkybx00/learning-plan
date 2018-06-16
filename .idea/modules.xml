@@ -6,76 +6,44 @@
       <module fileurl="file://$PROJECT_DIR$/hystrix/ms-provider-user/06-ms-provider-user.iml" filepath="$PROJECT_DIR$/hystrix/ms-provider-user/06-ms-provider-user.iml" />
       <module fileurl="file://$PROJECT_DIR$/config/config.iml" filepath="$PROJECT_DIR$/config/config.iml" />
       <module fileurl="file://$PROJECT_DIR$/config/config-client/config-client.iml" filepath="$PROJECT_DIR$/config/config-client/config-client.iml" />
-      <module fileurl="file://$PROJECT_DIR$/config/config-client/config-client.iml" filepath="$PROJECT_DIR$/config/config-client/config-client.iml" />
-      <module fileurl="file://$PROJECT_DIR$/config/config-client-authenticating/config-client-authenticating.iml" filepath="$PROJECT_DIR$/config/config-client-authenticating/config-client-authenticating.iml" />
       <module fileurl="file://$PROJECT_DIR$/config/config-client-authenticating/config-client-authenticating.iml" filepath="$PROJECT_DIR$/config/config-client-authenticating/config-client-authenticating.iml" />
       <module fileurl="file://$PROJECT_DIR$/config/config-client-eureka/config-client-eureka.iml" filepath="$PROJECT_DIR$/config/config-client-eureka/config-client-eureka.iml" />
-      <module fileurl="file://$PROJECT_DIR$/config/config-client-eureka/config-client-eureka.iml" filepath="$PROJECT_DIR$/config/config-client-eureka/config-client-eureka.iml" />
-      <module fileurl="file://$PROJECT_DIR$/config/config-client-refresh/config-client-refresh.iml" filepath="$PROJECT_DIR$/config/config-client-refresh/config-client-refresh.iml" />
       <module fileurl="file://$PROJECT_DIR$/config/config-client-refresh/config-client-refresh.iml" filepath="$PROJECT_DIR$/config/config-client-refresh/config-client-refresh.iml" />
       <module fileurl="file://$PROJECT_DIR$/config/config-client-refresh-cloud-bus/config-client-refresh-cloud-bus.iml" filepath="$PROJECT_DIR$/config/config-client-refresh-cloud-bus/config-client-refresh-cloud-bus.iml" />
-      <module fileurl="file://$PROJECT_DIR$/config/config-client-refresh-cloud-bus/config-client-refresh-cloud-bus.iml" filepath="$PROJECT_DIR$/config/config-client-refresh-cloud-bus/config-client-refresh-cloud-bus.iml" />
-      <module fileurl="file://$PROJECT_DIR$/config/config-server/config-server.iml" filepath="$PROJECT_DIR$/config/config-server/config-server.iml" />
       <module fileurl="file://$PROJECT_DIR$/config/config-server/config-server.iml" filepath="$PROJECT_DIR$/config/config-server/config-server.iml" />
       <module fileurl="file://$PROJECT_DIR$/config/config-server-authenticating/config-server-authenticating.iml" filepath="$PROJECT_DIR$/config/config-server-authenticating/config-server-authenticating.iml" />
-      <module fileurl="file://$PROJECT_DIR$/config/config-server-authenticating/config-server-authenticating.iml" filepath="$PROJECT_DIR$/config/config-server-authenticating/config-server-authenticating.iml" />
-      <module fileurl="file://$PROJECT_DIR$/config/config-server-encryption/config-server-encryption.iml" filepath="$PROJECT_DIR$/config/config-server-encryption/config-server-encryption.iml" />
       <module fileurl="file://$PROJECT_DIR$/config/config-server-encryption/config-server-encryption.iml" filepath="$PROJECT_DIR$/config/config-server-encryption/config-server-encryption.iml" />
       <module fileurl="file://$PROJECT_DIR$/config/config-server-eureka/config-server-eureka.iml" filepath="$PROJECT_DIR$/config/config-server-eureka/config-server-eureka.iml" />
-      <module fileurl="file://$PROJECT_DIR$/config/config-server-eureka/config-server-eureka.iml" filepath="$PROJECT_DIR$/config/config-server-eureka/config-server-eureka.iml" />
-      <module fileurl="file://$PROJECT_DIR$/config/config-server-refresh-cloud-bus/config-server-refresh-cloud-bus.iml" filepath="$PROJECT_DIR$/config/config-server-refresh-cloud-bus/config-server-refresh-cloud-bus.iml" />
       <module fileurl="file://$PROJECT_DIR$/config/config-server-refresh-cloud-bus/config-server-refresh-cloud-bus.iml" filepath="$PROJECT_DIR$/config/config-server-refresh-cloud-bus/config-server-refresh-cloud-bus.iml" />
       <module fileurl="file://$PROJECT_DIR$/hystrix2/consumer-order-feign-hystrix-fallback/consumer-order-feign-hystrix-fallback.iml" filepath="$PROJECT_DIR$/hystrix2/consumer-order-feign-hystrix-fallback/consumer-order-feign-hystrix-fallback.iml" />
-      <module fileurl="file://$PROJECT_DIR$/hystrix2/consumer-order-feign-hystrix-fallback/consumer-order-feign-hystrix-fallback.iml" filepath="$PROJECT_DIR$/hystrix2/consumer-order-feign-hystrix-fallback/consumer-order-feign-hystrix-fallback.iml" />
-      <module fileurl="file://$PROJECT_DIR$/hystrix2/consumer-order-feign-hystrix-fallback-stream/consumer-order-feign-hystrix-fallback-stream.iml" filepath="$PROJECT_DIR$/hystrix2/consumer-order-feign-hystrix-fallback-stream/consumer-order-feign-hystrix-fallback-stream.iml" />
       <module fileurl="file://$PROJECT_DIR$/hystrix2/consumer-order-feign-hystrix-fallback-stream/consumer-order-feign-hystrix-fallback-stream.iml" filepath="$PROJECT_DIR$/hystrix2/consumer-order-feign-hystrix-fallback-stream/consumer-order-feign-hystrix-fallback-stream.iml" />
       <module fileurl="file://$PROJECT_DIR$/zuul/consumer-order-ribbon/consumer-order-ribbon.iml" filepath="$PROJECT_DIR$/zuul/consumer-order-ribbon/consumer-order-ribbon.iml" />
-      <module fileurl="file://$PROJECT_DIR$/zuul/consumer-order-ribbon/consumer-order-ribbon.iml" filepath="$PROJECT_DIR$/zuul/consumer-order-ribbon/consumer-order-ribbon.iml" />
-      <module fileurl="file://$PROJECT_DIR$/hystrix2/consumer-order-ribbon-hystrix-fallback/consumer-order-ribbon-hystrix-fallback.iml" filepath="$PROJECT_DIR$/hystrix2/consumer-order-ribbon-hystrix-fallback/consumer-order-ribbon-hystrix-fallback.iml" />
       <module fileurl="file://$PROJECT_DIR$/hystrix2/consumer-order-ribbon-hystrix-fallback/consumer-order-ribbon-hystrix-fallback.iml" filepath="$PROJECT_DIR$/hystrix2/consumer-order-ribbon-hystrix-fallback/consumer-order-ribbon-hystrix-fallback.iml" />
       <module fileurl="file://$PROJECT_DIR$/sleuth/consumer-order-trace/consumer-order-trace.iml" filepath="$PROJECT_DIR$/sleuth/consumer-order-trace/consumer-order-trace.iml" />
-      <module fileurl="file://$PROJECT_DIR$/sleuth/consumer-order-trace/consumer-order-trace.iml" filepath="$PROJECT_DIR$/sleuth/consumer-order-trace/consumer-order-trace.iml" />
       <module fileurl="file://$PROJECT_DIR$/sleuth/consumer-order-trace-zipkin/consumer-order-trace-zipkin.iml" filepath="$PROJECT_DIR$/sleuth/consumer-order-trace-zipkin/consumer-order-trace-zipkin.iml" />
-      <module fileurl="file://$PROJECT_DIR$/sleuth/consumer-order-trace-zipkin/consumer-order-trace-zipkin.iml" filepath="$PROJECT_DIR$/sleuth/consumer-order-trace-zipkin/consumer-order-trace-zipkin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cookie/cookie-demo1/cookie.iml" filepath="$PROJECT_DIR$/cookie/cookie-demo1/cookie.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cookie/cookie-demo1/cookie-demo1.iml" filepath="$PROJECT_DIR$/cookie/cookie-demo1/cookie-demo1.iml" />
       <module fileurl="file://$PROJECT_DIR$/hystrix2/eureka-server/eureka-server.iml" filepath="$PROJECT_DIR$/hystrix2/eureka-server/eureka-server.iml" />
       <module fileurl="file://$PROJECT_DIR$/hystrix2/eureka-server/eureka-server (1) (com.dl).iml" filepath="$PROJECT_DIR$/hystrix2/eureka-server/eureka-server (1) (com.dl).iml" />
       <module fileurl="file://$PROJECT_DIR$/zuul/eureka-server/eureka-server (2) (com.zuul).iml" filepath="$PROJECT_DIR$/zuul/eureka-server/eureka-server (2) (com.zuul).iml" />
       <module fileurl="file://$PROJECT_DIR$/zuul/eureka-server-ha/eureka-server-ha.iml" filepath="$PROJECT_DIR$/zuul/eureka-server-ha/eureka-server-ha.iml" />
-      <module fileurl="file://$PROJECT_DIR$/zuul/eureka-server-ha/eureka-server-ha.iml" filepath="$PROJECT_DIR$/zuul/eureka-server-ha/eureka-server-ha.iml" />
-      <module fileurl="file://$PROJECT_DIR$/zuul/gate-zuul/gate-zuul.iml" filepath="$PROJECT_DIR$/zuul/gate-zuul/gate-zuul.iml" />
       <module fileurl="file://$PROJECT_DIR$/zuul/gate-zuul/gate-zuul.iml" filepath="$PROJECT_DIR$/zuul/gate-zuul/gate-zuul.iml" />
       <module fileurl="file://$PROJECT_DIR$/zuul/gateway-zuul-aggregation/gateway-zuul-aggregation.iml" filepath="$PROJECT_DIR$/zuul/gateway-zuul-aggregation/gateway-zuul-aggregation.iml" />
-      <module fileurl="file://$PROJECT_DIR$/zuul/gateway-zuul-aggregation/gateway-zuul-aggregation.iml" filepath="$PROJECT_DIR$/zuul/gateway-zuul-aggregation/gateway-zuul-aggregation.iml" />
-      <module fileurl="file://$PROJECT_DIR$/zuul/gateway-zuul-fallback/gateway-zuul-fallback.iml" filepath="$PROJECT_DIR$/zuul/gateway-zuul-fallback/gateway-zuul-fallback.iml" />
       <module fileurl="file://$PROJECT_DIR$/zuul/gateway-zuul-fallback/gateway-zuul-fallback.iml" filepath="$PROJECT_DIR$/zuul/gateway-zuul-fallback/gateway-zuul-fallback.iml" />
       <module fileurl="file://$PROJECT_DIR$/zuul/gateway-zuul-filter/gateway-zuul-filter.iml" filepath="$PROJECT_DIR$/zuul/gateway-zuul-filter/gateway-zuul-filter.iml" />
-      <module fileurl="file://$PROJECT_DIR$/zuul/gateway-zuul-filter/gateway-zuul-filter.iml" filepath="$PROJECT_DIR$/zuul/gateway-zuul-filter/gateway-zuul-filter.iml" />
-      <module fileurl="file://$PROJECT_DIR$/hystrix/hystrix.iml" filepath="$PROJECT_DIR$/hystrix/hystrix.iml" />
       <module fileurl="file://$PROJECT_DIR$/hystrix/hystrix.iml" filepath="$PROJECT_DIR$/hystrix/hystrix.iml" />
       <module fileurl="file://$PROJECT_DIR$/hystrix2/hystrix-dashboard/hystrix-dashboard.iml" filepath="$PROJECT_DIR$/hystrix2/hystrix-dashboard/hystrix-dashboard.iml" />
-      <module fileurl="file://$PROJECT_DIR$/hystrix2/hystrix-dashboard/hystrix-dashboard.iml" filepath="$PROJECT_DIR$/hystrix2/hystrix-dashboard/hystrix-dashboard.iml" />
-      <module fileurl="file://$PROJECT_DIR$/hystrix2/hystrix-turbine/hystrix-turbine.iml" filepath="$PROJECT_DIR$/hystrix2/hystrix-turbine/hystrix-turbine.iml" />
       <module fileurl="file://$PROJECT_DIR$/hystrix2/hystrix-turbine/hystrix-turbine.iml" filepath="$PROJECT_DIR$/hystrix2/hystrix-turbine/hystrix-turbine.iml" />
       <module fileurl="file://$PROJECT_DIR$/hystrix2/hystrix2.iml" filepath="$PROJECT_DIR$/hystrix2/hystrix2.iml" />
       <module fileurl="file://$PROJECT_DIR$/monster/monster.iml" filepath="$PROJECT_DIR$/monster/monster.iml" />
-      <module fileurl="file://$PROJECT_DIR$/monster/monster.iml" filepath="$PROJECT_DIR$/monster/monster.iml" />
-      <module fileurl="file://$PROJECT_DIR$/monster/ms-cinsumer-order-ribbon/ms-cinsumer-order-ribbon.iml" filepath="$PROJECT_DIR$/monster/ms-cinsumer-order-ribbon/ms-cinsumer-order-ribbon.iml" />
       <module fileurl="file://$PROJECT_DIR$/monster/ms-cinsumer-order-ribbon/ms-cinsumer-order-ribbon.iml" filepath="$PROJECT_DIR$/monster/ms-cinsumer-order-ribbon/ms-cinsumer-order-ribbon.iml" />
       <module fileurl="file://$PROJECT_DIR$/monster/ms-consumer-order-feign/ms-consumer-order-feign.iml" filepath="$PROJECT_DIR$/monster/ms-consumer-order-feign/ms-consumer-order-feign.iml" />
-      <module fileurl="file://$PROJECT_DIR$/monster/ms-consumer-order-feign/ms-consumer-order-feign.iml" filepath="$PROJECT_DIR$/monster/ms-consumer-order-feign/ms-consumer-order-feign.iml" />
-      <module fileurl="file://$PROJECT_DIR$/monster/ms-consumer-order-ribbon-customizing/ms-consumer-order-ribbon-customizing.iml" filepath="$PROJECT_DIR$/monster/ms-consumer-order-ribbon-customizing/ms-consumer-order-ribbon-customizing.iml" />
       <module fileurl="file://$PROJECT_DIR$/monster/ms-consumer-order-ribbon-customizing/ms-consumer-order-ribbon-customizing.iml" filepath="$PROJECT_DIR$/monster/ms-consumer-order-ribbon-customizing/ms-consumer-order-ribbon-customizing.iml" />
       <module fileurl="file://$PROJECT_DIR$/monster/ms-consumer-order-ribbon-customizing-properties/ms-consumer-order-ribbon-customizing-properties.iml" filepath="$PROJECT_DIR$/monster/ms-consumer-order-ribbon-customizing-properties/ms-consumer-order-ribbon-customizing-properties.iml" />
-      <module fileurl="file://$PROJECT_DIR$/monster/ms-consumer-order-ribbon-customizing-properties/ms-consumer-order-ribbon-customizing-properties.iml" filepath="$PROJECT_DIR$/monster/ms-consumer-order-ribbon-customizing-properties/ms-consumer-order-ribbon-customizing-properties.iml" />
-      <module fileurl="file://$PROJECT_DIR$/hystrix/ms-consumer-order-ribbon-hystrix-customizing/ms-consumer-order-ribbon-hystrix-customizing.iml" filepath="$PROJECT_DIR$/hystrix/ms-consumer-order-ribbon-hystrix-customizing/ms-consumer-order-ribbon-hystrix-customizing.iml" />
       <module fileurl="file://$PROJECT_DIR$/hystrix/ms-consumer-order-ribbon-hystrix-customizing/ms-consumer-order-ribbon-hystrix-customizing.iml" filepath="$PROJECT_DIR$/hystrix/ms-consumer-order-ribbon-hystrix-customizing/ms-consumer-order-ribbon-hystrix-customizing.iml" />
       <module fileurl="file://$PROJECT_DIR$/hystrix/ms-consumer-order-ribbon-hystrix-fallback/ms-consumer-order-ribbon-hystrix-fallback.iml" filepath="$PROJECT_DIR$/hystrix/ms-consumer-order-ribbon-hystrix-fallback/ms-consumer-order-ribbon-hystrix-fallback.iml" />
-      <module fileurl="file://$PROJECT_DIR$/hystrix/ms-consumer-order-ribbon-hystrix-fallback/ms-consumer-order-ribbon-hystrix-fallback.iml" filepath="$PROJECT_DIR$/hystrix/ms-consumer-order-ribbon-hystrix-fallback/ms-consumer-order-ribbon-hystrix-fallback.iml" />
-      <module fileurl="file://$PROJECT_DIR$/hystrix/ms-consumer-order-ribbon-hystrix-fusing/ms-consumer-order-ribbon-hystrix-fusing.iml" filepath="$PROJECT_DIR$/hystrix/ms-consumer-order-ribbon-hystrix-fusing/ms-consumer-order-ribbon-hystrix-fusing.iml" />
       <module fileurl="file://$PROJECT_DIR$/hystrix/ms-consumer-order-ribbon-hystrix-fusing/ms-consumer-order-ribbon-hystrix-fusing.iml" filepath="$PROJECT_DIR$/hystrix/ms-consumer-order-ribbon-hystrix-fusing/ms-consumer-order-ribbon-hystrix-fusing.iml" />
       <module fileurl="file://$PROJECT_DIR$/hystrix/ms-consumer-order-ribbon-hystrix-thread-isolation/ms-consumer-order-ribbon-hystrix-thread-isolation.iml" filepath="$PROJECT_DIR$/hystrix/ms-consumer-order-ribbon-hystrix-thread-isolation/ms-consumer-order-ribbon-hystrix-thread-isolation.iml" />
-      <module fileurl="file://$PROJECT_DIR$/hystrix/ms-consumer-order-ribbon-hystrix-thread-isolation/ms-consumer-order-ribbon-hystrix-thread-isolation.iml" filepath="$PROJECT_DIR$/hystrix/ms-consumer-order-ribbon-hystrix-thread-isolation/ms-consumer-order-ribbon-hystrix-thread-isolation.iml" />
-      <module fileurl="file://$PROJECT_DIR$/monster/ms-consumer-order-ribbon-without-eureka/ms-consumer-order-ribbon-without-eureka.iml" filepath="$PROJECT_DIR$/monster/ms-consumer-order-ribbon-without-eureka/ms-consumer-order-ribbon-without-eureka.iml" />
       <module fileurl="file://$PROJECT_DIR$/monster/ms-consumer-order-ribbon-without-eureka/ms-consumer-order-ribbon-without-eureka.iml" filepath="$PROJECT_DIR$/monster/ms-consumer-order-ribbon-without-eureka/ms-consumer-order-ribbon-without-eureka.iml" />
       <module fileurl="file://$PROJECT_DIR$/monster/ms-eureka-server/ms-eureka-server.iml" filepath="$PROJECT_DIR$/monster/ms-eureka-server/ms-eureka-server.iml" />
       <module fileurl="file://$PROJECT_DIR$/hystrix/ms-eureka-server/ms-eureka-server (1) (com.dl.cloud).iml" filepath="$PROJECT_DIR$/hystrix/ms-eureka-server/ms-eureka-server (1) (com.dl.cloud).iml" />
@@ -84,27 +52,18 @@
       <module fileurl="file://$PROJECT_DIR$/hystrix/ms-provider-user/ms-provider-user (1) (com.dl.cloud).iml" filepath="$PROJECT_DIR$/hystrix/ms-provider-user/ms-provider-user (1) (com.dl.cloud).iml" />
       <module fileurl="file://$PROJECT_DIR$/monster/ms-provider-user/ms-provider-user (2) (com.dl).iml" filepath="$PROJECT_DIR$/monster/ms-provider-user/ms-provider-user (2) (com.dl).iml" />
       <module fileurl="file://$PROJECT_DIR$/monster/ms-provider-user-api/ms-provider-user-api.iml" filepath="$PROJECT_DIR$/monster/ms-provider-user-api/ms-provider-user-api.iml" />
-      <module fileurl="file://$PROJECT_DIR$/monster/ms-provider-user-api/ms-provider-user-api.iml" filepath="$PROJECT_DIR$/monster/ms-provider-user-api/ms-provider-user-api.iml" />
       <module fileurl="file://$PROJECT_DIR$/hystrix2/provider-user/provider-user.iml" filepath="$PROJECT_DIR$/hystrix2/provider-user/provider-user.iml" />
       <module fileurl="file://$PROJECT_DIR$/hystrix2/provider-user/provider-user (1) (com.dl).iml" filepath="$PROJECT_DIR$/hystrix2/provider-user/provider-user (1) (com.dl).iml" />
       <module fileurl="file://$PROJECT_DIR$/zuul/provider-user/provider-user (2) (com.zuul).iml" filepath="$PROJECT_DIR$/zuul/provider-user/provider-user (2) (com.zuul).iml" />
       <module fileurl="file://$PROJECT_DIR$/sleuth/provider-user-trace/provider-user-trace.iml" filepath="$PROJECT_DIR$/sleuth/provider-user-trace/provider-user-trace.iml" />
-      <module fileurl="file://$PROJECT_DIR$/sleuth/provider-user-trace/provider-user-trace.iml" filepath="$PROJECT_DIR$/sleuth/provider-user-trace/provider-user-trace.iml" />
       <module fileurl="file://$PROJECT_DIR$/sleuth/provider-user-trace-zipkin/provider-user-trace-zipkin.iml" filepath="$PROJECT_DIR$/sleuth/provider-user-trace-zipkin/provider-user-trace-zipkin.iml" />
-      <module fileurl="file://$PROJECT_DIR$/sleuth/provider-user-trace-zipkin/provider-user-trace-zipkin.iml" filepath="$PROJECT_DIR$/sleuth/provider-user-trace-zipkin/provider-user-trace-zipkin.iml" />
-      <module fileurl="file://$PROJECT_DIR$/monster/rabbitmq/rabbitmq.iml" filepath="$PROJECT_DIR$/monster/rabbitmq/rabbitmq.iml" />
       <module fileurl="file://$PROJECT_DIR$/monster/rabbitmq/rabbitmq.iml" filepath="$PROJECT_DIR$/monster/rabbitmq/rabbitmq.iml" />
       <module fileurl="file://$PROJECT_DIR$/sleuth/sleuth.iml" filepath="$PROJECT_DIR$/sleuth/sleuth.iml" />
       <module fileurl="file://$PROJECT_DIR$/zuul/spring-boot-admin/spring-boot-admin.iml" filepath="$PROJECT_DIR$/zuul/spring-boot-admin/spring-boot-admin.iml" />
-      <module fileurl="file://$PROJECT_DIR$/zuul/spring-boot-admin/spring-boot-admin.iml" filepath="$PROJECT_DIR$/zuul/spring-boot-admin/spring-boot-admin.iml" />
       <module fileurl="file://$PROJECT_DIR$/swagger1/swagger1.iml" filepath="$PROJECT_DIR$/swagger1/swagger1.iml" />
-      <module fileurl="file://$PROJECT_DIR$/swagger1/swagger1.iml" filepath="$PROJECT_DIR$/swagger1/swagger1.iml" />
-      <module fileurl="file://$PROJECT_DIR$/swagger2/swagger2.iml" filepath="$PROJECT_DIR$/swagger2/swagger2.iml" />
       <module fileurl="file://$PROJECT_DIR$/swagger2/swagger2.iml" filepath="$PROJECT_DIR$/swagger2/swagger2.iml" />
       <module fileurl="file://$PROJECT_DIR$/thread/thread.iml" filepath="$PROJECT_DIR$/thread/thread.iml" />
       <module fileurl="file://$PROJECT_DIR$/sleuth/trace-zipkin-server/trace-zipkin-server.iml" filepath="$PROJECT_DIR$/sleuth/trace-zipkin-server/trace-zipkin-server.iml" />
-      <module fileurl="file://$PROJECT_DIR$/sleuth/trace-zipkin-server/trace-zipkin-server.iml" filepath="$PROJECT_DIR$/sleuth/trace-zipkin-server/trace-zipkin-server.iml" />
-      <module fileurl="file://$PROJECT_DIR$/sleuth/trace-zipkin-server-elasticsearch/trace-zipkin-server-elasticsearch.iml" filepath="$PROJECT_DIR$/sleuth/trace-zipkin-server-elasticsearch/trace-zipkin-server-elasticsearch.iml" />
       <module fileurl="file://$PROJECT_DIR$/sleuth/trace-zipkin-server-elasticsearch/trace-zipkin-server-elasticsearch.iml" filepath="$PROJECT_DIR$/sleuth/trace-zipkin-server-elasticsearch/trace-zipkin-server-elasticsearch.iml" />
       <module fileurl="file://$PROJECT_DIR$/zuul/zuul.iml" filepath="$PROJECT_DIR$/zuul/zuul.iml" />
       <module fileurl="file://$PROJECT_DIR$/zuul/eureka-server/zuul-eureka-server.iml" filepath="$PROJECT_DIR$/zuul/eureka-server/zuul-eureka-server.iml" />

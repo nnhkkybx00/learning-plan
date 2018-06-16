@@ -25,6 +25,7 @@
         <module name="consumer-order-ribbon-hystrix-fallback" />
         <module name="consumer-order-trace" />
         <module name="consumer-order-trace-zipkin" />
+        <module name="cookie" />
         <module name="eureka-server" />
         <module name="eureka-server (1) (com.dl)" />
         <module name="eureka-server (2) (com.zuul)" />
@@ -91,6 +92,9 @@
       <module name="consumer-order-ribbon-hystrix-fallback" target="1.8" />
       <module name="consumer-order-trace" target="1.8" />
       <module name="consumer-order-trace-zipkin" target="1.8" />
+      <module name="cookie" target="1.8" />
+      <module name="cookie-demo" target="1.8" />
+      <module name="demo" target="1.8" />
       <module name="eureka-server" target="1.8" />
       <module name="eureka-server (1) (com.dl)" target="1.8" />
       <module name="eureka-server (2) (com.zuul)" target="1.8" />
