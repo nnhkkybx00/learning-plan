@@ -26,6 +26,7 @@
         <module name="consumer-order-trace" />
         <module name="consumer-order-trace-zipkin" />
         <module name="cookie" />
+        <module name="cookie-demo1" />
         <module name="eureka-server" />
         <module name="eureka-server (1) (com.dl)" />
         <module name="eureka-server (2) (com.zuul)" />
@@ -94,7 +95,8 @@
       <module name="consumer-order-trace-zipkin" target="1.8" />
       <module name="cookie" target="1.8" />
       <module name="cookie-demo" target="1.8" />
-      <module name="demo" target="1.8" />
+      <module name="cookie-demo1" target="1.8" />
+      <module name="demo-cookie" target="1.8" />
       <module name="eureka-server" target="1.8" />
       <module name="eureka-server (1) (com.dl)" target="1.8" />
       <module name="eureka-server (2) (com.zuul)" target="1.8" />

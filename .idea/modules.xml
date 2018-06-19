@@ -21,7 +21,7 @@
       <module fileurl="file://$PROJECT_DIR$/hystrix2/consumer-order-ribbon-hystrix-fallback/consumer-order-ribbon-hystrix-fallback.iml" filepath="$PROJECT_DIR$/hystrix2/consumer-order-ribbon-hystrix-fallback/consumer-order-ribbon-hystrix-fallback.iml" />
       <module fileurl="file://$PROJECT_DIR$/sleuth/consumer-order-trace/consumer-order-trace.iml" filepath="$PROJECT_DIR$/sleuth/consumer-order-trace/consumer-order-trace.iml" />
       <module fileurl="file://$PROJECT_DIR$/sleuth/consumer-order-trace-zipkin/consumer-order-trace-zipkin.iml" filepath="$PROJECT_DIR$/sleuth/consumer-order-trace-zipkin/consumer-order-trace-zipkin.iml" />
-      <module fileurl="file://$PROJECT_DIR$/cookie/cookie-demo1/cookie.iml" filepath="$PROJECT_DIR$/cookie/cookie-demo1/cookie.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cookie/cookie.iml" filepath="$PROJECT_DIR$/cookie/cookie.iml" />
       <module fileurl="file://$PROJECT_DIR$/cookie/cookie-demo1/cookie-demo1.iml" filepath="$PROJECT_DIR$/cookie/cookie-demo1/cookie-demo1.iml" />
       <module fileurl="file://$PROJECT_DIR$/hystrix2/eureka-server/eureka-server.iml" filepath="$PROJECT_DIR$/hystrix2/eureka-server/eureka-server.iml" />
       <module fileurl="file://$PROJECT_DIR$/hystrix2/eureka-server/eureka-server (1) (com.dl).iml" filepath="$PROJECT_DIR$/hystrix2/eureka-server/eureka-server (1) (com.dl).iml" />
