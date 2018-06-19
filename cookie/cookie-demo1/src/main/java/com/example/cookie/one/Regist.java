@@ -12,7 +12,7 @@ import javax.servlet.http.HttpServletResponse;
 @Controller
 public class Regist {
 
-    @RequestMapping(value = "/",method = RequestMethod.GET)
+    @RequestMapping(value = "/regist",method = RequestMethod.GET)
     public String index(){
         return "regist";
     }

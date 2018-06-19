@@ -33,7 +33,7 @@ public class SessionRegist {
         session.setAttribute("password",password);
 
         //注销session
-        
+
 //        session.invalidate();
         return "session_regist1";
     }
