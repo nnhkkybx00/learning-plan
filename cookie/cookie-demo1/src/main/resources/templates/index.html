@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+<head lang="en">
+    <meta charset="UTF-8" />
+    <title>首页</title>
+</head>
+<body>
+<p>
+<h1>session的一致性问题</h1>
+</p>
+<p>
+    session创建于端口：${pageContext.request.localPort}
+    <br>
+    <br>
+    处理请求的tomcat端口为： ${pageContext.request.localPort}
+</p>
+<form action="/buy">
+    <button type="submit">购买</button>
+</form>
+<form action="/logout">
+    <button type="submit">退出</button>
+</form>
+</body>
+</html>
