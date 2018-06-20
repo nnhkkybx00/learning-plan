@@ -56,6 +56,7 @@
         <module name="ms-provider-user (1) (com.dl.cloud)" />
         <module name="ms-provider-user (2) (com.dl)" />
         <module name="ms-provider-user-api" />
+        <module name="nio" />
         <module name="provider-user" />
         <module name="provider-user (1) (com.dl)" />
         <module name="provider-user (2) (com.zuul)" />
@@ -127,6 +128,7 @@
       <module name="ms-provider-user (1) (com.dl.cloud)" target="1.8" />
       <module name="ms-provider-user (2) (com.dl)" target="1.8" />
       <module name="ms-provider-user-api" target="1.8" />
+      <module name="nio" target="1.5" />
       <module name="provider-user" target="1.8" />
       <module name="provider-user (1) (com.dl)" target="1.8" />
       <module name="provider-user (2) (com.zuul)" target="1.8" />
