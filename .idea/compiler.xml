@@ -62,6 +62,7 @@
         <module name="provider-user-trace" />
         <module name="provider-user-trace-zipkin" />
         <module name="rabbitmq" />
+        <module name="redis-mybatis" />
         <module name="sleuth" />
         <module name="spring-boot-admin" />
         <module name="swagger1" />
@@ -132,6 +133,7 @@
       <module name="provider-user-trace" target="1.8" />
       <module name="provider-user-trace-zipkin" target="1.8" />
       <module name="rabbitmq" target="1.8" />
+      <module name="redis-mybatis" target="1.8" />
       <module name="sleuth" target="1.8" />
       <module name="spring-boot-admin" target="1.5" />
       <module name="swagger1" target="1.8" />
