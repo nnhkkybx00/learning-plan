@@ -68,6 +68,7 @@
       <module fileurl="file://$PROJECT_DIR$/thread/thread.iml" filepath="$PROJECT_DIR$/thread/thread.iml" />
       <module fileurl="file://$PROJECT_DIR$/sleuth/trace-zipkin-server/trace-zipkin-server.iml" filepath="$PROJECT_DIR$/sleuth/trace-zipkin-server/trace-zipkin-server.iml" />
       <module fileurl="file://$PROJECT_DIR$/sleuth/trace-zipkin-server-elasticsearch/trace-zipkin-server-elasticsearch.iml" filepath="$PROJECT_DIR$/sleuth/trace-zipkin-server-elasticsearch/trace-zipkin-server-elasticsearch.iml" />
+      <module fileurl="file://$PROJECT_DIR$/validate-test/validate-test.iml" filepath="$PROJECT_DIR$/validate-test/validate-test.iml" />
       <module fileurl="file://$PROJECT_DIR$/zuul/zuul.iml" filepath="$PROJECT_DIR$/zuul/zuul.iml" />
       <module fileurl="file://$PROJECT_DIR$/zuul/eureka-server/zuul-eureka-server.iml" filepath="$PROJECT_DIR$/zuul/eureka-server/zuul-eureka-server.iml" />
       <module fileurl="file://$PROJECT_DIR$/zuul/provider-user/zuul-provider-user.iml" filepath="$PROJECT_DIR$/zuul/provider-user/zuul-provider-user.iml" />
