@@ -31,7 +31,8 @@ public class RedisMybatisApplicationTests {
         assertThat(product.getPrice()).isEqualTo(200);
 
         Product newProduct = new Product();
-        long newPrice = new Random().nextLong();
+//        long newPrice = new Random().nextLong();
+        long newPrice = 200;
         newProduct.setName("new name");
         newProduct.setPrice(newPrice);
         restTemplate.put("http://localhost:" + port + "/product/" + productId, newProduct);

@@ -6,7 +6,8 @@ import org.springframework.web.bind.annotation.RequestParam;
 
 @Mapper
 public interface ProductMapper {
-    Product select(@RequestParam("id")long id);
+
+    Product select(long id);
 
     void update(Product product);
 }

@@ -59,8 +59,10 @@
         <option value="$PROJECT_DIR$/sleuth/trace-zipkin-server/pom.xml" />
         <option value="$PROJECT_DIR$/sleuth/trace-zipkin-server-elasticsearch/pom.xml" />
         <option value="$PROJECT_DIR$/cookie/pom.xml" />
+        <option value="$PROJECT_DIR$/cookie/cookie-demo/pom.xml" />
         <option value="$PROJECT_DIR$/cookie/cookie-demo1/pom.xml" />
         <option value="$PROJECT_DIR$/redis-mybatis/pom.xml" />
+        <option value="$PROJECT_DIR$/nio/pom.xml" />
       </list>
     </option>
   </component>

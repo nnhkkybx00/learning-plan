@@ -2,8 +2,8 @@ package two.t2;
 
 public class HasSelfPrivateNum {
     private int num = 0;
-//     public void addI(String userName){
-    synchronized public void addI(String userName){
+     public void addI(String userName){
+//    synchronized public void addI(String userName){
         try{
             if("a".equals(userName)){
                 num = 100;
