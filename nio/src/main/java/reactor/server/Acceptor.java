@@ -46,7 +46,7 @@ public class Acceptor implements Runnable {
              * 本例中，这个 Handler 命名为 TCPHandler
             * **/
             // 接受client连接请求
-            SocketChannel sc = reactor.serverSocketChannel.accept();
+            SocketChannel sc = reactor.serverSocketChannel.accept();//SocketChannel
             System.out.println(sc.socket().getRemoteSocketAddress().toString() + " is connected.");
 
             if (sc != null)

@@ -31,11 +31,12 @@ public class Main {
 
 //---------------------------------------------------------------------------------------------------------------------------------------
             //orElse(T other)，orElseGet(Supplier<? extends T> other)和orElseThrow(Supplier<? extends X> exceptionSupplier)
+        //orElse和orElseGet的用法如下所示，相当于value值为null时，给予一个默认值
         User user1 = null;
         User user2 = new User("kk");
         user1 = Optional.ofNullable(user2).orElse(createUser());
         System.out.println(user1.toString());
-        user1 = null;
+//        user1 = null;
         user1 = Optional.ofNullable(user1).orElseGet(() -> createUser());
         System.out.println(user1.toString());
         //这两个函数的区别：当user值不为null时，orElse函数依然会执行createUser()方法，而orElseGet函数并不会执行createUser()方法

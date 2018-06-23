@@ -57,12 +57,12 @@
         <module name="ms-provider-user (1) (com.dl.cloud)" />
         <module name="ms-provider-user (2) (com.dl)" />
         <module name="ms-provider-user-api" />
-        <module name="nio" />
         <module name="provider-user" />
         <module name="provider-user (1) (com.dl)" />
         <module name="provider-user (2) (com.zuul)" />
         <module name="provider-user-trace" />
         <module name="provider-user-trace-zipkin" />
+        <module name="proxy" />
         <module name="rabbitmq" />
         <module name="redis-mybatis" />
         <module name="sleuth" />
@@ -77,7 +77,7 @@
         <module name="zuul-provider-user" />
       </profile>
     </annotationProcessing>
-    <bytecodeTargetLevel>
+    <bytecodeTargetLevel target="1.8">
       <module name="06-ms-eureka-server" target="1.8" />
       <module name="06-ms-provider-user" target="1.8" />
       <module name="config" target="1.8" />
@@ -110,6 +110,7 @@
       <module name="hystrix-turbine" target="1.8" />
       <module name="hystrix2" target="1.8" />
       <module name="java8" target="1.5" />
+      <module name="many" target="1.5" />
       <module name="monster" target="1.8" />
       <module name="ms-cinsumer-order-ribbon" target="1.8" />
       <module name="ms-consumer-order-feign" target="1.8" />
@@ -127,6 +128,7 @@
       <module name="provider-user" target="1.8" />
       <module name="provider-user-trace" target="1.8" />
       <module name="provider-user-trace-zipkin" target="1.8" />
+      <module name="proxy" target="1.5" />
       <module name="rabbitmq" target="1.8" />
       <module name="redis-mybatis" target="1.8" />
       <module name="sleuth" target="1.8" />
