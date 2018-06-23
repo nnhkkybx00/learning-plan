@@ -63,6 +63,8 @@
         <option value="$PROJECT_DIR$/cookie/cookie-demo1/pom.xml" />
         <option value="$PROJECT_DIR$/redis-mybatis/pom.xml" />
         <option value="$PROJECT_DIR$/nio/pom.xml" />
+        <option value="$PROJECT_DIR$/java8/pom.xml" />
+        <option value="$PROJECT_DIR$/validate-test/pom.xml" />
       </list>
     </option>
   </component>

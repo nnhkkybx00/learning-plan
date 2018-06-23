@@ -34,7 +34,8 @@ public class Client {
 
         // 初始化待连接服务端的地址
         String hostName = InetAddress.getLocalHost().toString();
-        int port = 12345;
+//        int port = 12345;
+        int port = 8080;
         try
         {
             Socket client = new Socket(InetAddress.getLocalHost(), port);
