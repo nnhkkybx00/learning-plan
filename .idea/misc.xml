@@ -65,6 +65,8 @@
         <option value="$PROJECT_DIR$/nio/pom.xml" />
         <option value="$PROJECT_DIR$/java8/pom.xml" />
         <option value="$PROJECT_DIR$/validate-test/pom.xml" />
+        <option value="$PROJECT_DIR$/cache/pom.xml" />
+        <option value="$PROJECT_DIR$/cache/redis-cache/pom.xml" />
       </list>
     </option>
   </component>

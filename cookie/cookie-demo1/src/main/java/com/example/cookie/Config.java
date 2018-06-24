@@ -1,12 +1,13 @@
 package com.example.cookie;
 
 import org.springframework.context.annotation.Bean;
+import org.springframework.context.annotation.Configuration;
 import org.springframework.session.data.redis.config.annotation.web.http.RedisHttpSessionConfiguration;
 import org.springframework.web.filter.DelegatingFilterProxy;
 import redis.clients.jedis.JedisPoolConfig;
 
-@org.springframework.context.annotation.Configuration
-public class Configuration {
+@Configuration
+public class Config {
     @Bean
     public DelegatingFilterProxy delegatingFilterProxy(){
         return new DelegatingFilterProxy();

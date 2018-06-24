@@ -2,12 +2,14 @@
 <project version="4">
   <component name="CompilerConfiguration">
     <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
       <profile name="Maven default annotation processors profile" enabled="true">
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="06-ms-eureka-server" />
         <module name="06-ms-provider-user" />
+        <module name="cache" />
         <module name="config" />
         <module name="config-client" />
         <module name="config-client-authenticating" />
@@ -64,6 +66,7 @@
         <module name="provider-user-trace-zipkin" />
         <module name="proxy" />
         <module name="rabbitmq" />
+        <module name="redis-cache" />
         <module name="redis-mybatis" />
         <module name="sleuth" />
         <module name="spring-boot-admin" />
@@ -77,9 +80,10 @@
         <module name="zuul-provider-user" />
       </profile>
     </annotationProcessing>
-    <bytecodeTargetLevel target="1.8">
+    <bytecodeTargetLevel>
       <module name="06-ms-eureka-server" target="1.8" />
       <module name="06-ms-provider-user" target="1.8" />
+      <module name="cache" target="1.8" />
       <module name="config" target="1.8" />
       <module name="config-client" target="1.8" />
       <module name="config-client-authenticating" target="1.8" />
@@ -98,8 +102,12 @@
       <module name="consumer-order-trace" target="1.8" />
       <module name="consumer-order-trace-zipkin" target="1.8" />
       <module name="cookie" target="1.8" />
+      <module name="cookie-demo" target="1.8" />
       <module name="cookie-demo1" target="1.8" />
+      <module name="demo-cookie" target="1.8" />
       <module name="eureka-server" target="1.8" />
+      <module name="eureka-server (1) (com.dl)" target="1.8" />
+      <module name="eureka-server (2) (com.zuul)" target="1.8" />
       <module name="eureka-server-ha" target="1.8" />
       <module name="gate-zuul" target="1.8" />
       <module name="gateway-zuul-aggregation" target="1.8" />
@@ -122,14 +130,21 @@
       <module name="ms-consumer-order-ribbon-hystrix-thread-isolation" target="1.8" />
       <module name="ms-consumer-order-ribbon-without-eureka" target="1.8" />
       <module name="ms-eureka-server" target="1.8" />
+      <module name="ms-eureka-server (1) (com.dl.cloud)" target="1.8" />
+      <module name="ms-eureka-server (2) (com.dl)" target="1.8" />
       <module name="ms-provider-user" target="1.8" />
+      <module name="ms-provider-user (1) (com.dl.cloud)" target="1.8" />
+      <module name="ms-provider-user (2) (com.dl)" target="1.8" />
       <module name="ms-provider-user-api" target="1.8" />
       <module name="nio" target="1.5" />
       <module name="provider-user" target="1.8" />
+      <module name="provider-user (1) (com.dl)" target="1.8" />
+      <module name="provider-user (2) (com.zuul)" target="1.8" />
       <module name="provider-user-trace" target="1.8" />
       <module name="provider-user-trace-zipkin" target="1.8" />
       <module name="proxy" target="1.5" />
       <module name="rabbitmq" target="1.8" />
+      <module name="redis-cache" target="1.8" />
       <module name="redis-mybatis" target="1.8" />
       <module name="sleuth" target="1.8" />
       <module name="spring-boot-admin" target="1.5" />

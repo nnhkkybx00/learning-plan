@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/hystrix/ms-eureka-server/06-ms-eureka-server.iml" filepath="$PROJECT_DIR$/hystrix/ms-eureka-server/06-ms-eureka-server.iml" />
       <module fileurl="file://$PROJECT_DIR$/hystrix/ms-provider-user/06-ms-provider-user.iml" filepath="$PROJECT_DIR$/hystrix/ms-provider-user/06-ms-provider-user.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cache/cache.iml" filepath="$PROJECT_DIR$/cache/cache.iml" />
       <module fileurl="file://$PROJECT_DIR$/config/config.iml" filepath="$PROJECT_DIR$/config/config.iml" />
       <module fileurl="file://$PROJECT_DIR$/config/config-client/config-client.iml" filepath="$PROJECT_DIR$/config/config-client/config-client.iml" />
       <module fileurl="file://$PROJECT_DIR$/config/config-client-authenticating/config-client-authenticating.iml" filepath="$PROJECT_DIR$/config/config-client-authenticating/config-client-authenticating.iml" />
@@ -21,7 +22,7 @@
       <module fileurl="file://$PROJECT_DIR$/hystrix2/consumer-order-ribbon-hystrix-fallback/consumer-order-ribbon-hystrix-fallback.iml" filepath="$PROJECT_DIR$/hystrix2/consumer-order-ribbon-hystrix-fallback/consumer-order-ribbon-hystrix-fallback.iml" />
       <module fileurl="file://$PROJECT_DIR$/sleuth/consumer-order-trace/consumer-order-trace.iml" filepath="$PROJECT_DIR$/sleuth/consumer-order-trace/consumer-order-trace.iml" />
       <module fileurl="file://$PROJECT_DIR$/sleuth/consumer-order-trace-zipkin/consumer-order-trace-zipkin.iml" filepath="$PROJECT_DIR$/sleuth/consumer-order-trace-zipkin/consumer-order-trace-zipkin.iml" />
-      <module fileurl="file://$PROJECT_DIR$/cookie/cookie.iml" filepath="$PROJECT_DIR$/cookie/cookie.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cookie/cookie-demo1/cookie.iml" filepath="$PROJECT_DIR$/cookie/cookie-demo1/cookie.iml" />
       <module fileurl="file://$PROJECT_DIR$/cookie/cookie-demo1/cookie-demo1.iml" filepath="$PROJECT_DIR$/cookie/cookie-demo1/cookie-demo1.iml" />
       <module fileurl="file://$PROJECT_DIR$/hystrix2/eureka-server/eureka-server.iml" filepath="$PROJECT_DIR$/hystrix2/eureka-server/eureka-server.iml" />
       <module fileurl="file://$PROJECT_DIR$/hystrix2/eureka-server/eureka-server (1) (com.dl).iml" filepath="$PROJECT_DIR$/hystrix2/eureka-server/eureka-server (1) (com.dl).iml" />
@@ -62,6 +63,7 @@
       <module fileurl="file://$PROJECT_DIR$/sleuth/provider-user-trace-zipkin/provider-user-trace-zipkin.iml" filepath="$PROJECT_DIR$/sleuth/provider-user-trace-zipkin/provider-user-trace-zipkin.iml" />
       <module fileurl="file://$PROJECT_DIR$/many/proxy/proxy.iml" filepath="$PROJECT_DIR$/many/proxy/proxy.iml" />
       <module fileurl="file://$PROJECT_DIR$/monster/rabbitmq/rabbitmq.iml" filepath="$PROJECT_DIR$/monster/rabbitmq/rabbitmq.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cache/redis-cache/redis-cache.iml" filepath="$PROJECT_DIR$/cache/redis-cache/redis-cache.iml" />
       <module fileurl="file://$PROJECT_DIR$/redis-mybatis/redis-mybatis.iml" filepath="$PROJECT_DIR$/redis-mybatis/redis-mybatis.iml" />
       <module fileurl="file://$PROJECT_DIR$/sleuth/sleuth.iml" filepath="$PROJECT_DIR$/sleuth/sleuth.iml" />
       <module fileurl="file://$PROJECT_DIR$/zuul/spring-boot-admin/spring-boot-admin.iml" filepath="$PROJECT_DIR$/zuul/spring-boot-admin/spring-boot-admin.iml" />
