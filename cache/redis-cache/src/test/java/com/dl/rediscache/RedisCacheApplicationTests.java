@@ -56,7 +56,8 @@ public class RedisCacheApplicationTests {
                 e.printStackTrace();
             }
             //
-            List<Product> list = cacheService.query();
+//            List<Product> list = cacheService.query();
+            List<Product> list = cacheService.queryByTempleate();
             logger.info(list.toString());
         }
     }

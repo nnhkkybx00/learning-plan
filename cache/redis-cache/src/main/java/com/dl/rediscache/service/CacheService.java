@@ -1,6 +1,7 @@
 package com.dl.rediscache.service;
 
 import com.alibaba.fastjson.JSON;
+import com.alibaba.fastjson.TypeReference;
 import com.dl.rediscache.dao.OrderDao;
 import com.dl.rediscache.entity.Product;
 import org.apache.log4j.LogManager;
@@ -30,6 +31,9 @@ public class CacheService {
 
     private static final String cache_key = "dl";
 
+    @Autowired
+    private CacheTemplateService cacheTemplateService;
+
     @SuppressWarnings("rawtypes")
     public /** synchronized *这里加锁粒度太大*/ List<Product> query(){
         //TODO
@@ -43,6 +47,7 @@ public class CacheService {
             logger.info("================================query for cache===============================");
             return JSON.parseArray(json,Product.class);
         }
+/************************** double check lock ***************************************************************/
 
         // double check lock
         synchronized (this) {
@@ -58,6 +63,17 @@ public class CacheService {
             return list;
         }
 
+    }
+
+    //解耦写法
+    public List<Product> queryByTempleate(){
+        return cacheTemplateService.findCache(cache_key, 10, TimeUnit.MINUTES,
+                new TypeReference<List<Product>>() {}, new CacheLoadable<List<Product>>() {
+                    @Override
+                    public List<Product> load() {
+                        return orderDao.getAll();
+                    }
+                });
     }
 
 }
