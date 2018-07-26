@@ -55,6 +55,9 @@
       <module fileurl="file://$PROJECT_DIR$/hystrix/ms-provider-user/ms-provider-user (1) (com.dl.cloud).iml" filepath="$PROJECT_DIR$/hystrix/ms-provider-user/ms-provider-user (1) (com.dl.cloud).iml" />
       <module fileurl="file://$PROJECT_DIR$/monster/ms-provider-user/ms-provider-user (2) (com.dl).iml" filepath="$PROJECT_DIR$/monster/ms-provider-user/ms-provider-user (2) (com.dl).iml" />
       <module fileurl="file://$PROJECT_DIR$/monster/ms-provider-user-api/ms-provider-user-api.iml" filepath="$PROJECT_DIR$/monster/ms-provider-user-api/ms-provider-user-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/netty/netty.iml" filepath="$PROJECT_DIR$/netty/netty.iml" />
+      <module fileurl="file://$PROJECT_DIR$/netty/netty-client/nettyclient.iml" filepath="$PROJECT_DIR$/netty/netty-client/nettyclient.iml" />
+      <module fileurl="file://$PROJECT_DIR$/netty/netty-server/nettyserver.iml" filepath="$PROJECT_DIR$/netty/netty-server/nettyserver.iml" />
       <module fileurl="file://$PROJECT_DIR$/nio/nio.iml" filepath="$PROJECT_DIR$/nio/nio.iml" />
       <module fileurl="file://$PROJECT_DIR$/hystrix2/provider-user/provider-user.iml" filepath="$PROJECT_DIR$/hystrix2/provider-user/provider-user.iml" />
       <module fileurl="file://$PROJECT_DIR$/hystrix2/provider-user/provider-user (1) (com.dl).iml" filepath="$PROJECT_DIR$/hystrix2/provider-user/provider-user (1) (com.dl).iml" />
@@ -72,6 +75,7 @@
       <module fileurl="file://$PROJECT_DIR$/thread/thread.iml" filepath="$PROJECT_DIR$/thread/thread.iml" />
       <module fileurl="file://$PROJECT_DIR$/sleuth/trace-zipkin-server/trace-zipkin-server.iml" filepath="$PROJECT_DIR$/sleuth/trace-zipkin-server/trace-zipkin-server.iml" />
       <module fileurl="file://$PROJECT_DIR$/sleuth/trace-zipkin-server-elasticsearch/trace-zipkin-server-elasticsearch.iml" filepath="$PROJECT_DIR$/sleuth/trace-zipkin-server-elasticsearch/trace-zipkin-server-elasticsearch.iml" />
+      <module fileurl="file://$PROJECT_DIR$/netty/transmission/transmission.iml" filepath="$PROJECT_DIR$/netty/transmission/transmission.iml" />
       <module fileurl="file://$PROJECT_DIR$/validate-test/validate-test.iml" filepath="$PROJECT_DIR$/validate-test/validate-test.iml" />
       <module fileurl="file://$PROJECT_DIR$/zuul/zuul.iml" filepath="$PROJECT_DIR$/zuul/zuul.iml" />
       <module fileurl="file://$PROJECT_DIR$/zuul/eureka-server/zuul-eureka-server.iml" filepath="$PROJECT_DIR$/zuul/eureka-server/zuul-eureka-server.iml" />

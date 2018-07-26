@@ -1,5 +1,9 @@
 package two.syn_volatile;
 
+/**
+ * 外练互斥，内修可见
+ */
+
 public class Service {
     private boolean isContinueRun = true;
     /*
@@ -18,7 +22,8 @@ public class Service {
         String anyString = new String();
         while (isContinueRun){
             synchronized (anyString){
-
+            /*synchronized 不仅可以解决一个线程看到对象处于不一致的状态，还可以保证进入同步方法或者同步块
+            * 的每个线程，都看到由同一个锁保护之前所有的修改效果*/
             }
         }
         System.out.println("停下来了！！");

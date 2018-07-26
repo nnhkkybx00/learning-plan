@@ -38,12 +38,30 @@ public class PlainNioServer {
                     if(key.isAcceptable()){
                         ServerSocketChannel server = (ServerSocketChannel) key.channel();
                         SocketChannel client = server.accept();
+
                         client.configureBlocking(false);
                         client.register(selector,SelectionKey.OP_WRITE | SelectionKey.OP_READ,msg.duplicate());
                         System.out.println(
                                 "Accepted connection from " + client
                         );
                     }
+
+                    if(key.isReadable()){
+                        ByteBuffer inputBuffer = ByteBuffer.allocate(1024);
+                        inputBuffer.clear();
+                        SocketChannel socketChannel1 = (SocketChannel)key.channel();
+                        int numBytes = socketChannel1.read(inputBuffer); // 读取数据
+                        if (numBytes == -1)
+                        {
+                            System.out.println("[Warning!] A client has been closed.");
+                            socketChannel1.close();
+                            return;
+                        }
+                        String str = new String(inputBuffer.array());
+                        System.out.println(socketChannel1.socket().getRemoteSocketAddress().toString() + " > " + str);
+                    }
+
+
                         if(key.isWritable()){
                             SocketChannel client = (SocketChannel) key.channel();
                             ByteBuffer byteBuffer = (ByteBuffer)key.attachment();

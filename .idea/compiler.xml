@@ -59,6 +59,8 @@
         <module name="ms-provider-user (1) (com.dl.cloud)" />
         <module name="ms-provider-user (2) (com.dl)" />
         <module name="ms-provider-user-api" />
+        <module name="nettyclient" />
+        <module name="nettyserver" />
         <module name="provider-user" />
         <module name="provider-user (1) (com.dl)" />
         <module name="provider-user (2) (com.zuul)" />
@@ -74,6 +76,7 @@
         <module name="swagger2" />
         <module name="trace-zipkin-server" />
         <module name="trace-zipkin-server-elasticsearch" />
+        <module name="transmission" />
         <module name="validate-test" />
         <module name="zuul" />
         <module name="zuul-eureka-server" />
@@ -136,6 +139,9 @@
       <module name="ms-provider-user (1) (com.dl.cloud)" target="1.8" />
       <module name="ms-provider-user (2) (com.dl)" target="1.8" />
       <module name="ms-provider-user-api" target="1.8" />
+      <module name="netty" target="1.5" />
+      <module name="nettyclient" target="1.8" />
+      <module name="nettyserver" target="1.8" />
       <module name="nio" target="1.5" />
       <module name="provider-user" target="1.8" />
       <module name="provider-user (1) (com.dl)" target="1.8" />
@@ -152,6 +158,7 @@
       <module name="swagger2" target="1.8" />
       <module name="trace-zipkin-server" target="1.8" />
       <module name="trace-zipkin-server-elasticsearch" target="1.8" />
+      <module name="transmission" target="1.8" />
       <module name="validate-test" target="1.8" />
       <module name="zuul" target="1.8" />
       <module name="zuul-eureka-server" target="1.8" />
