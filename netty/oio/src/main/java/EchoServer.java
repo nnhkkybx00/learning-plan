@@ -16,7 +16,8 @@ public class EchoServer {
                     PrintWriter out = new PrintWriter(outputStream,true);
                     out.println("Hello! Enter BYE to exit.");
                     boolean done = false;
-                    while (!done && in.hasNextLine()){
+//                    while (!done && in.hasNextLine()){//hasNextLine()  会阻塞线程
+                    while (!done && in.hasNext()){
                         String line = in.nextLine();
                         out.println("Echo: " + line);
                         if(line.trim().equals("BYE")){

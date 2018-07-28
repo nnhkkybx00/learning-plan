@@ -22,13 +22,14 @@ public class PlainOioServer {
                                     out = clientSocket.getOutputStream();
                                     out.write("Hi!\r\n".getBytes(Charset.forName("UTF-8")));
                                     out.flush();
-                                    clientSocket.close();
+//                                    clientSocket.close();
                                 }catch (IOException e){
                                     e.printStackTrace();
                                 }finally {
                                     try {
                                         clientSocket.close();
-                                    }catch (IOException e){
+                                    }
+                                    catch (IOException e){
                                         //
                                     }
                                 }

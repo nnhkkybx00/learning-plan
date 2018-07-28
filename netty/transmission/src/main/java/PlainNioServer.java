@@ -1,4 +1,4 @@
-import io.netty.buffer.ByteBuf;
+
 
 import java.io.IOException;
 import java.net.InetSocketAddress;
@@ -15,11 +15,16 @@ public class PlainNioServer {
     public void server(int port)throws IOException {
         ServerSocketChannel socketChannel = ServerSocketChannel.open();
         socketChannel.configureBlocking(false);
+
         ServerSocket serverSocket = socketChannel.socket();
         InetSocketAddress address = new InetSocketAddress(port);
         serverSocket.bind(address);
+
+
         Selector selector = Selector.open();
         socketChannel.register(selector,SelectionKey.OP_ACCEPT);
+
+
         final ByteBuffer  msg = ByteBuffer.wrap("Hi!\r\n".getBytes());
         for(;;){
             try {
@@ -41,6 +46,7 @@ public class PlainNioServer {
 
                         client.configureBlocking(false);
                         client.register(selector,SelectionKey.OP_WRITE | SelectionKey.OP_READ,msg.duplicate());
+
                         System.out.println(
                                 "Accepted connection from " + client
                         );
@@ -49,6 +55,7 @@ public class PlainNioServer {
                     if(key.isReadable()){
                         ByteBuffer inputBuffer = ByteBuffer.allocate(1024);
                         inputBuffer.clear();
+
                         SocketChannel socketChannel1 = (SocketChannel)key.channel();
                         int numBytes = socketChannel1.read(inputBuffer); // 读取数据
                         if (numBytes == -1)
