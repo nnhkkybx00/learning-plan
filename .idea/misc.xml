@@ -72,6 +72,7 @@
     </option>
     <option name="ignoredFiles">
       <set>
+        <option value="$PROJECT_DIR$/netty/oio/pom.xml" />
         <option value="$PROJECT_DIR$/netty/test/pom.xml" />
       </set>
     </option>
