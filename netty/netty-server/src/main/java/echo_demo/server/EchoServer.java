@@ -1,3 +1,5 @@
+package echo_demo.server;
+
 import io.netty.bootstrap.ServerBootstrap;
 import io.netty.channel.ChannelFuture;
 import io.netty.channel.ChannelInitializer;
@@ -9,7 +11,7 @@ import io.netty.channel.socket.nio.NioServerSocketChannel;
 import java.net.InetSocketAddress;
 
 /**
- * EchoServerHandler 实现了业务逻辑
+ * echo_demo.server.EchoServerHandler 实现了业务逻辑
  * main() 方法引导了服务器
  * 引导过程所需要的步奏如下：
  * 创建一个ServerBootstrap 的实例以引导和绑定服务器
@@ -28,7 +30,7 @@ public class EchoServer {
     public static void main (String[] args) throws Exception{
 //        if(args.length != 1){
 //            System.err.println(
-//                    "Usage: " + EchoServer.class.getSimpleName() + "<port>"
+//                    "Usage: " + echo_demo.server.EchoServer.class.getSimpleName() + "<port>"
 //            );
 //            return;
 //        }

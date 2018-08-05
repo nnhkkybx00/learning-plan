@@ -1,3 +1,5 @@
+package echo_demo.client;
+
 import io.netty.buffer.ByteBuf;
 import io.netty.buffer.Unpooled;
 import io.netty.channel.ChannelHandler;

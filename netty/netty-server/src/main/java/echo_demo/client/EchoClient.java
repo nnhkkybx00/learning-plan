@@ -1,3 +1,5 @@
+package echo_demo.client;
+
 import io.netty.bootstrap.Bootstrap;
 import io.netty.channel.ChannelFuture;
 import io.netty.channel.ChannelInitializer;
@@ -12,7 +14,7 @@ import java.net.InetSocketAddress;
  * 初始化客户端，创建一个Bootstrap实例
  * 为进行事件处理分配了一个 NioEventLoopGroup 实例，其中事件处理包括创建新的连接以及处理入站和出站数据
  * 为服务器创建了一个 InetSocketAddress 实例
- * 当连接建立时，一个 EchoClientHandler 实例会被安装到ChannelPipeline中
+ * 当连接建立时，一个 echo_demo.client.EchoClientHandler 实例会被安装到ChannelPipeline中
  * 在一切设置完成后，调用 bootstrap.connect() 方法连接到远程节点
  */
 public class EchoClient {
@@ -48,7 +50,7 @@ public class EchoClient {
     public static void main(String[] args) throws Exception{
 //        if(args.length != 2){
 //            System.err.println(
-//                    "Usage: " + EchoClient.class.getSimpleName() + "<host> <port>"
+//                    "Usage: " + echo_demo.client.EchoClient.class.getSimpleName() + "<host> <port>"
 //            );
 //            return;
 //        }
