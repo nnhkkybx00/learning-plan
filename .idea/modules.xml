@@ -32,6 +32,9 @@
       <module fileurl="file://$PROJECT_DIR$/zuul/gateway-zuul-aggregation/gateway-zuul-aggregation.iml" filepath="$PROJECT_DIR$/zuul/gateway-zuul-aggregation/gateway-zuul-aggregation.iml" />
       <module fileurl="file://$PROJECT_DIR$/zuul/gateway-zuul-fallback/gateway-zuul-fallback.iml" filepath="$PROJECT_DIR$/zuul/gateway-zuul-fallback/gateway-zuul-fallback.iml" />
       <module fileurl="file://$PROJECT_DIR$/zuul/gateway-zuul-filter/gateway-zuul-filter.iml" filepath="$PROJECT_DIR$/zuul/gateway-zuul-filter/gateway-zuul-filter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/gradle.iml" filepath="$PROJECT_DIR$/.idea/modules/gradle.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/gradle_main.iml" filepath="$PROJECT_DIR$/.idea/modules/gradle_main.iml" group="gradle" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/gradle_test.iml" filepath="$PROJECT_DIR$/.idea/modules/gradle_test.iml" group="gradle" />
       <module fileurl="file://$PROJECT_DIR$/hystrix/hystrix.iml" filepath="$PROJECT_DIR$/hystrix/hystrix.iml" />
       <module fileurl="file://$PROJECT_DIR$/hystrix2/hystrix-dashboard/hystrix-dashboard.iml" filepath="$PROJECT_DIR$/hystrix2/hystrix-dashboard/hystrix-dashboard.iml" />
       <module fileurl="file://$PROJECT_DIR$/hystrix2/hystrix-turbine/hystrix-turbine.iml" filepath="$PROJECT_DIR$/hystrix2/hystrix-turbine/hystrix-turbine.iml" />
@@ -56,8 +59,8 @@
       <module fileurl="file://$PROJECT_DIR$/monster/ms-provider-user/ms-provider-user (2) (com.dl).iml" filepath="$PROJECT_DIR$/monster/ms-provider-user/ms-provider-user (2) (com.dl).iml" />
       <module fileurl="file://$PROJECT_DIR$/monster/ms-provider-user-api/ms-provider-user-api.iml" filepath="$PROJECT_DIR$/monster/ms-provider-user-api/ms-provider-user-api.iml" />
       <module fileurl="file://$PROJECT_DIR$/netty/netty.iml" filepath="$PROJECT_DIR$/netty/netty.iml" />
+      <module fileurl="file://$PROJECT_DIR$/netty/netty-server/netty_.iml" filepath="$PROJECT_DIR$/netty/netty-server/netty_.iml" />
       <module fileurl="file://$PROJECT_DIR$/netty/netty-client/nettyclient.iml" filepath="$PROJECT_DIR$/netty/netty-client/nettyclient.iml" />
-      <module fileurl="file://$PROJECT_DIR$/netty/netty-server/nettyserver.iml" filepath="$PROJECT_DIR$/netty/netty-server/nettyserver.iml" />
       <module fileurl="file://$PROJECT_DIR$/nio/nio.iml" filepath="$PROJECT_DIR$/nio/nio.iml" />
       <module fileurl="file://$PROJECT_DIR$/hystrix2/provider-user/provider-user.iml" filepath="$PROJECT_DIR$/hystrix2/provider-user/provider-user.iml" />
       <module fileurl="file://$PROJECT_DIR$/hystrix2/provider-user/provider-user (1) (com.dl).iml" filepath="$PROJECT_DIR$/hystrix2/provider-user/provider-user (1) (com.dl).iml" />

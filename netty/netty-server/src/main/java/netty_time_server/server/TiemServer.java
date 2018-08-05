@@ -8,6 +8,8 @@ import io.netty.channel.EventLoopGroup;
 import io.netty.channel.nio.NioEventLoopGroup;
 import io.netty.channel.socket.SocketChannel;
 import io.netty.channel.socket.nio.NioServerSocketChannel;
+import io.netty.handler.codec.LineBasedFrameDecoder;
+import io.netty.handler.codec.string.StringDecoder;
 
 
 public class TiemServer {
@@ -48,6 +50,12 @@ public class TiemServer {
     private class  ChildChannelHandler extends ChannelInitializer<SocketChannel>{
         @Override
         protected void initChannel(SocketChannel socketChannel) throws Exception {
+
+            //LineBasedFrameDecoder的原理：依次遍历ByteBuf 中的可读字节，判断是否有“\n”或者“\r\n”，有就以此为结束位置
+            // 从可读索引到结束位置区间的字节就组成了一行。它是以换行符为结束标志的解码器
+            // 读到最大长度后没有发现换行符，就抛异常，同时忽略之前读到的异常码流
+            socketChannel.pipeline().addLast(new LineBasedFrameDecoder(1024));
+            socketChannel.pipeline().addLast(new StringDecoder());//将接收到的对象转换成字符串
             socketChannel.pipeline().addLast(new TimeServerHandler());
         }
     }

@@ -12,12 +12,17 @@ public class TimeClientHandler extends ChannelInboundHandlerAdapter {
 
     private static final Logger logger = Logger.getLogger(TimeClientHandler.class.getName());
 
-    private final ByteBuf firstMessage;
+//    private final ByteBuf firstMessage;
+
+    private byte[] req;
+
+    private int counter;
 
     public TimeClientHandler() {
-        byte[] req = "QUERY TIME ORDER".getBytes();
-        this.firstMessage = Unpooled.buffer(req.length);
-        firstMessage.writeBytes(req);
+        req = ("QUERY TIME ORDER" + System.getProperty("line.separator")).getBytes();
+//        byte[] req = "QUERY TIME ORDER".getBytes();
+//        this.firstMessage = Unpooled.buffer(req.length);
+//        firstMessage.writeBytes(req);
     }
 
     /**
@@ -32,16 +37,31 @@ public class TimeClientHandler extends ChannelInboundHandlerAdapter {
      */
     @Override
     public void channelActive(ChannelHandlerContext ctx) throws Exception {
-        ctx.writeAndFlush(firstMessage);
+
+        ByteBuf message;
+        for(int i = 0;i< 100;i++){
+            message = Unpooled.buffer(req.length);
+            message.writeBytes(req);
+            ctx.writeAndFlush(message);//每发送一条就刷新一次，保证每条消息都会被写入Channel中。
+
+        }
+//        ctx.writeAndFlush(firstMessage);
     }
 
     @Override
     public void channelRead(ChannelHandlerContext ctx, Object msg) throws Exception {
+        String body = (String)msg;//msg已经是解码成字符串之后的应答消息了
+        System.out.println("Now is : " + body + " ; the counter is : " + ++counter);
+
+
+        /**
         ByteBuf buf = (ByteBuf)msg;
         byte[] req = new byte[buf.readableBytes()];
         buf.readBytes(req);
         String body = new String(req,"UTF-8");
-        System.out.println("Now is : " + body);
+        System.out.println("Now is : " + body + " ; the counter is : " + ++counter);
+
+        **/
     }
 
     @Override

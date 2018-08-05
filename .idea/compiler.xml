@@ -59,8 +59,8 @@
         <module name="ms-provider-user (1) (com.dl.cloud)" />
         <module name="ms-provider-user (2) (com.dl)" />
         <module name="ms-provider-user-api" />
+        <module name="netty_" />
         <module name="nettyclient" />
-        <module name="nettyserver" />
         <module name="provider-user" />
         <module name="provider-user (1) (com.dl)" />
         <module name="provider-user (2) (com.zuul)" />
@@ -116,6 +116,8 @@
       <module name="gateway-zuul-aggregation" target="1.8" />
       <module name="gateway-zuul-fallback" target="1.8" />
       <module name="gateway-zuul-filter" target="1.8" />
+      <module name="gradle_main" target="1.8" />
+      <module name="gradle_test" target="1.8" />
       <module name="hystrix" target="1.8" />
       <module name="hystrix-dashboard" target="1.8" />
       <module name="hystrix-turbine" target="1.8" />
@@ -140,8 +142,8 @@
       <module name="ms-provider-user (2) (com.dl)" target="1.8" />
       <module name="ms-provider-user-api" target="1.8" />
       <module name="netty" target="1.5" />
+      <module name="netty_" target="1.8" />
       <module name="nettyclient" target="1.8" />
-      <module name="nettyserver" target="1.8" />
       <module name="nio" target="1.5" />
       <module name="provider-user" target="1.8" />
       <module name="provider-user (1) (com.dl)" target="1.8" />
