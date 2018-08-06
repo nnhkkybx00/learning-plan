@@ -2,37 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="22e3395d-5786-41c6-af7d-96d956ae81d3" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/artifacts/Gradle___com_dl_gradle___gradle_1_0_SNAPSHOT_war.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/artifacts/Gradle___com_dl_gradle___gradle_1_0_SNAPSHOT_war__exploded_.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__junit_junit_4_12.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_hamcrest_hamcrest_core_1_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/gradle.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/gradle_main.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/gradle_test.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradle/gradle.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradle/src/main/java/com/dl/gradle/todo/App.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradle/src/main/java/com/dl/gradle/todo/TodoItem.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/artifacts/nettyserver_jar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/artifacts/nettyserver_jar.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/many/lambda/src/main/java/ahead/Employee.java" beforeDir="false" afterPath="$PROJECT_DIR$/many/lambda/src/main/java/ahead/Employee.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/many/many.iml" beforeDir="false" afterPath="$PROJECT_DIR$/many/many.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/netty/netty-server/src/META-INF/MANIFEST.MF" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/netty/netty-server/src/main/java/netty_time_server/client/TimeClient.java" beforeDir="false" afterPath="$PROJECT_DIR$/netty/netty-server/src/main/java/netty_time_server/client/TimeClient.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/netty/netty-server/src/main/java/netty_time_server/client/TimeClientHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/netty/netty-server/src/main/java/netty_time_server/client/TimeClientHandler.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/netty/netty-server/src/main/java/netty_time_server/server/TiemServer.java" beforeDir="false" afterPath="$PROJECT_DIR$/netty/netty-server/src/main/java/netty_time_server/server/TiemServer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/netty/netty-server/src/main/java/netty_time_server/server/TimeServerHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/netty/netty-server/src/main/java/netty_time_server/server/TimeServerHandler.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/netty/netty-server/target/classes/netty_time_server/client/TimeClient$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/netty/netty-server/target/classes/netty_time_server/client/TimeClient$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/netty/netty-server/target/classes/netty_time_server/client/TimeClient.class" beforeDir="false" afterPath="$PROJECT_DIR$/netty/netty-server/target/classes/netty_time_server/client/TimeClient.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/netty/netty-server/target/classes/netty_time_server/client/TimeClientHandler.class" beforeDir="false" afterPath="$PROJECT_DIR$/netty/netty-server/target/classes/netty_time_server/client/TimeClientHandler.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/netty/netty-server/target/classes/netty_time_server/server/TiemServer$ChildChannelHandler.class" beforeDir="false" afterPath="$PROJECT_DIR$/netty/netty-server/target/classes/netty_time_server/server/TiemServer$ChildChannelHandler.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/netty/netty-server/target/classes/netty_time_server/server/TiemServer.class" beforeDir="false" afterPath="$PROJECT_DIR$/netty/netty-server/target/classes/netty_time_server/server/TiemServer.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/netty/netty-server/target/classes/netty_time_server/server/TimeServerHandler.class" beforeDir="false" afterPath="$PROJECT_DIR$/netty/netty-server/target/classes/netty_time_server/server/TimeServerHandler.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/netty/netty.iml" beforeDir="false" afterPath="$PROJECT_DIR$/netty/netty.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/netty/oio/src/main/java/multi_server/ThreadedEchoHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/netty/oio/src/main/java/multi_server/ThreadedEchoHandler.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/netty/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/netty/README.md" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/config/target/" />
     <ignored path="$PROJECT_DIR$/config/config-client-refresh/target/" />
@@ -151,12 +122,15 @@
     </system>
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="build.gradle" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/gradle/build.gradle">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="359">
-              <caret line="36" column="22" selection-start-line="36" selection-start-column="22" selection-end-line="36" selection-end-column="22" />
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/netty/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="409">
+                <caret line="31" column="5" selection-start-line="31" selection-start-column="5" selection-end-line="31" selection-end-column="5" />
+              </first_editor>
+              <second_editor />
             </state>
           </provider>
         </entry>
@@ -367,9 +341,9 @@
     </option>
     <option name="modificationStamps">
       <map>
-        <entry key="$PROJECT_DIR$/gradle" value="4600440496726" />
+        <entry key="$PROJECT_DIR$/gradle" value="4600440616874" />
         <entry key="$PROJECT_DIR$/gradle/.gradle" value="0" />
-        <entry key="$PROJECT_DIR$/gradle/build.gradle" value="642919246" />
+        <entry key="$PROJECT_DIR$/gradle/build.gradle" value="463040207" />
         <entry key="$PROJECT_DIR$/gradle/settings.gradle" value="2386708115" />
       </map>
     </option>
@@ -557,7 +531,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/cache/redis-cache/pom.xml" />
         <option value="$PROJECT_DIR$/cache/redis-cache/src/main/java/com/dl/rediscache/RedisCacheApplication.java" />
         <option value="$PROJECT_DIR$/cache/redis-cache/src/main/resources/application.yml" />
         <option value="$PROJECT_DIR$/cache/redis-cache/src/main/java/com/dl/rediscache/entity/Product.java" />
@@ -608,6 +581,7 @@
         <option value="$PROJECT_DIR$/gradle/gradle.md" />
         <option value="$PROJECT_DIR$/gradle/settings.gradle" />
         <option value="$PROJECT_DIR$/gradle/build.gradle" />
+        <option value="$PROJECT_DIR$/netty/README.md" />
       </list>
     </option>
   </component>
@@ -648,10 +622,10 @@
   <component name="NodePackageJsonFileManager">
     <packageJsonPaths />
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-8" />
-    <option name="y" value="-8" />
-    <option name="width" value="1936" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-1597" />
+    <option name="y" value="7" />
+    <option name="width" value="1453" />
     <option name="height" value="1056" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -662,96 +636,20 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="AndroidView" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
               <item name="daydayup" type="b2602c69:ProjectViewProjectNode" />
-              <item name="gradle" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-            </path>
-            <path>
-              <item name="daydayup" type="b2602c69:ProjectViewProjectNode" />
-              <item name="gradle" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="build" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="daydayup" type="b2602c69:ProjectViewProjectNode" />
-              <item name="gradle" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="build" type="462c0819:PsiDirectoryNode" />
-              <item name="libs" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="daydayup" type="b2602c69:ProjectViewProjectNode" />
-              <item name="gradle" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="daydayup" type="b2602c69:ProjectViewProjectNode" />
-              <item name="gradle" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-            </path>
-            <path>
-              <item name="daydayup" type="b2602c69:ProjectViewProjectNode" />
-              <item name="gradle" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="daydayup" type="b2602c69:ProjectViewProjectNode" />
-              <item name="gradle" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="todo" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="daydayup" type="b2602c69:ProjectViewProjectNode" />
-              <item name="many" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="daydayup" type="b2602c69:ProjectViewProjectNode" />
-              <item name="many" type="462c0819:PsiDirectoryNode" />
-              <item name="lambda" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="daydayup" type="b2602c69:ProjectViewProjectNode" />
-              <item name="many" type="462c0819:PsiDirectoryNode" />
-              <item name="lambda" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="daydayup" type="b2602c69:ProjectViewProjectNode" />
-              <item name="many" type="462c0819:PsiDirectoryNode" />
-              <item name="lambda" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="daydayup" type="b2602c69:ProjectViewProjectNode" />
-              <item name="many" type="462c0819:PsiDirectoryNode" />
-              <item name="lambda" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="daydayup" type="b2602c69:ProjectViewProjectNode" />
-              <item name="many" type="462c0819:PsiDirectoryNode" />
-              <item name="lambda" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="ahead" type="462c0819:PsiDirectoryNode" />
+              <item name="netty" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
       <pane id="Scope" />
-      <pane id="AndroidView" />
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -774,12 +672,6 @@
     <key name="CreateTestDialog.RecentsKey">
       <recent name="com.dl.rediscache.service" />
     </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="D:\daydayup\gradle" />
-    </key>
-    <key name="CreateTestDialog.Recents.Supers">
-      <recent name="" />
-    </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="" />
       <recent name="two.dirtyread.t9" />
@@ -789,6 +681,12 @@
       <recent name="D:\daydayup\netty" />
       <recent name="D:\daydayup\many\note" />
       <recent name="D:\daydayup\cache\redis-cache\src\main\resources" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\daydayup\gradle" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -1221,7 +1119,9 @@
       <workItem from="1532611806977" duration="6184000" />
       <workItem from="1533051119230" duration="2677000" />
       <workItem from="1533436275442" duration="16033000" />
-      <workItem from="1533478486675" duration="2481000" />
+      <workItem from="1533478486675" duration="3062000" />
+      <workItem from="1533481620709" duration="135000" />
+      <workItem from="1533565756128" duration="1668000" />
     </task>
     <servers />
   </component>
@@ -1258,10 +1158,10 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="90650000" />
+    <option name="totallyTimeSpent" value="93034000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <frame x="-1597" y="7" width="1453" height="1056" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
@@ -1270,7 +1170,6 @@
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
-      <window_info anchor="bottom" id="Build" weight="0.32922733" />
       <window_info anchor="right" id="Database" order="3" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -1282,20 +1181,21 @@
       <window_info anchor="bottom" id="Java Enterprise" order="7" />
       <window_info anchor="right" id="Capture Analysis" order="3" />
       <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.3605823" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3605823" />
       <window_info anchor="bottom" id="Spring" order="7" />
       <window_info anchor="bottom" id="Terminal" order="7" weight="0.56774914" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18070363" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24838477" />
       <window_info anchor="right" id="Bean Validation" order="3" />
       <window_info id="Web" order="2" side_tool="true" />
-      <window_info anchor="right" id="Gradle" weight="0.32995737" />
+      <window_info anchor="right" id="Gradle" order="4" weight="0.15671642" />
       <window_info anchor="right" id="Theme Preview" order="3" />
       <window_info id="Favorites" order="2" side_tool="true" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="Messages" order="7" weight="0.32922733" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Messages" order="7" weight="0.32922733" />
+      <window_info anchor="bottom" id="Build" order="8" weight="0.32922733" />
       <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32922733" />
     </layout>
@@ -1326,10 +1226,13 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="jar://$MAVEN_REPOSITORY$/io/netty/netty-all/4.1.25.Final/netty-all-4.1.25.Final.jar!/io/netty/channel/Channel.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="999">
-          <caret line="43" column="9" selection-start-line="43" selection-start-column="9" selection-end-line="43" selection-end-column="9" />
+    <entry file="file://$PROJECT_DIR$/netty/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="27">
+            <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
+          </first_editor>
+          <second_editor />
         </state>
       </provider>
     </entry>
@@ -1586,9 +1489,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/netty/oio/src/main/java/EchoServer.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/netty/oio/src/main/java/multi_server/ThreadedEchoHandler.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="189">
@@ -1636,19 +1536,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="162">
           <caret line="21" column="38" selection-start-line="21" selection-start-column="38" selection-end-line="21" selection-end-column="38" />
-          <folding>
-            <element signature="e#151#152#0" expanded="true" />
-            <element signature="e#183#184#0" expanded="true" />
-            <element signature="e#221#222#0" expanded="true" />
-            <element signature="e#262#263#0" expanded="true" />
-            <element signature="e#214#215#0" expanded="true" />
-            <element signature="e#241#242#0" expanded="true" />
-            <element signature="e#313#314#0" expanded="true" />
-            <element signature="e#347#348#0" expanded="true" />
-            <element signature="e#377#378#0" expanded="true" />
-            <element signature="e#424#425#0" expanded="true" />
-            <element signature="e#462#463#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1656,13 +1543,10 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="324">
           <caret line="14" column="38" selection-start-line="14" selection-start-column="38" selection-end-line="14" selection-end-column="38" />
-          <folding>
-            <element signature="e#344#345#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/gradle/gradle.md">
+    <entry file="file://$PROJECT_DIR$/gradle/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="135">
@@ -1688,8 +1572,18 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/gradle/build.gradle">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="359">
-          <caret line="36" column="22" selection-start-line="36" selection-start-column="22" selection-end-line="36" selection-end-column="22" />
+        <state relative-caret-position="627">
+          <caret line="39" selection-start-line="39" selection-end-line="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/netty/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="409">
+            <caret line="31" column="5" selection-start-line="31" selection-start-column="5" selection-end-line="31" selection-end-column="5" />
+          </first_editor>
+          <second_editor />
         </state>
       </provider>
     </entry>
