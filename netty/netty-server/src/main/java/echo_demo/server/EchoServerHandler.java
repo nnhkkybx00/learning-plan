@@ -15,16 +15,29 @@ import io.netty.util.CharsetUtil;
 
 public class EchoServerHandler extends ChannelInboundHandlerAdapter {
 
+    int counter = 0;
+
     /**
      * 对于每个传入的消息都要调用
      */
     @Override
     public void channelRead(ChannelHandlerContext ctx, Object msg) throws Exception {
-        ByteBuf in = (ByteBuf) msg;
-        System.out.println(
-                "Server received: " + in.toString(CharsetUtil.UTF_8)//将消息记录到控制台
-        );
-        ctx.write(in);/**将接受到的消息写给发送者，而不冲刷出站消息**/
+//        -----------------------------------权威指南例子-------------------------------------------
+        String body = (String) msg;
+        System.out.println("This is " + ++counter + " times receive client : [" + body + "]");
+        body += "$_";
+        ByteBuf echo = Unpooled.copiedBuffer(body.getBytes());
+        ctx.writeAndFlush(echo);
+
+
+
+
+//        ---------------------------------------------分隔符--------------------------------------------------
+//        ByteBuf in = (ByteBuf) msg;
+//        System.out.println(
+//                "Server received: " + in.toString(CharsetUtil.UTF_8)//将消息记录到控制台
+//        );
+//        ctx.write(in);/**将接受到的消息写给发送者，而不冲刷出站消息**/
     }
 
     /**
