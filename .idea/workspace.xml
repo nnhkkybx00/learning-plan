@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="22e3395d-5786-41c6-af7d-96d956ae81d3" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/netty/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/netty/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/config/target/" />
     <ignored path="$PROJECT_DIR$/config/config-client-refresh/target/" />
@@ -123,12 +122,24 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/netty/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="409">
-                <caret line="31" column="5" selection-start-line="31" selection-start-column="5" selection-end-line="31" selection-end-column="5" />
+              <first_editor relative-caret-position="27">
+                <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="652">
+                <caret line="39" column="6" selection-start-line="39" selection-start-column="6" selection-end-line="39" selection-end-column="6" />
               </first_editor>
               <second_editor />
             </state>
@@ -537,7 +548,6 @@
         <option value="$PROJECT_DIR$/cache/redis-cache/src/main/java/com/dl/rediscache/service/CacheLoadable.java" />
         <option value="$PROJECT_DIR$/cache/redis-cache/src/main/java/com/dl/rediscache/service/CacheService.java" />
         <option value="$PROJECT_DIR$/cache/redis-cache/src/test/java/com/dl/rediscache/RedisCacheApplicationTests.java" />
-        <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/cache/redis-cache/src/main/java/com/dl/rediscache/service/CacheTemplateService.java" />
         <option value="$PROJECT_DIR$/thread/src/two/dirtyread/t9/MyOneLIst.java" />
         <option value="$PROJECT_DIR$/thread/src/two/dirtyread/t9/Run.java" />
@@ -582,6 +592,7 @@
         <option value="$PROJECT_DIR$/gradle/settings.gradle" />
         <option value="$PROJECT_DIR$/gradle/build.gradle" />
         <option value="$PROJECT_DIR$/netty/README.md" />
+        <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
   </component>
@@ -1121,7 +1132,7 @@
       <workItem from="1533436275442" duration="16033000" />
       <workItem from="1533478486675" duration="3062000" />
       <workItem from="1533481620709" duration="135000" />
-      <workItem from="1533565756128" duration="1668000" />
+      <workItem from="1533565756128" duration="1962000" />
     </task>
     <servers />
   </component>
@@ -1158,7 +1169,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="93034000" />
+    <option name="totallyTimeSpent" value="93328000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-1597" y="7" width="1453" height="1056" extended-state="0" />
@@ -1510,14 +1521,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor />
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/netty/netty-server/src/main/java/netty_time_server/server/TimeServerHandler.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="243">
@@ -1580,8 +1583,18 @@
     <entry file="file://$PROJECT_DIR$/netty/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="409">
-            <caret line="31" column="5" selection-start-line="31" selection-start-column="5" selection-end-line="31" selection-end-column="5" />
+          <first_editor relative-caret-position="27">
+            <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="652">
+            <caret line="39" column="6" selection-start-line="39" selection-start-column="6" selection-end-line="39" selection-end-column="6" />
           </first_editor>
           <second_editor />
         </state>
