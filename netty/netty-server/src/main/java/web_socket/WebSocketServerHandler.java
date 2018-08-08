@@ -40,19 +40,36 @@ public class WebSocketServerHandler extends SimpleChannelInboundHandler<Object> 
 
     private void handleHttpRequest(ChannelHandlerContext ctx,FullHttpRequest req) throws Exception{
         //如果HTTP解码失败，返回HTTP异常
-        if(!req.getDecoderResult().isSuccess()
-                ||(!"websocket".equals(req.headers().get("Upgrade")))){
+        if(!req.getDecoderResult().isSuccess()){
+            sendHttpResponse(ctx,req,new DefaultFullHttpResponse(HttpVersion.HTTP_1_1,HttpResponseStatus.BAD_REQUEST));
+            return;
+        }
+        if(!"websocket".equals(req.headers().get("Upgrade"))){//30
             sendHttpResponse(ctx,req,new DefaultFullHttpResponse(HttpVersion.HTTP_1_1,HttpResponseStatus.BAD_REQUEST));
             return;
         }
 
         //构造握手响应返回，本机测试
-        WebSocketServerHandshakerFactory wsFactory = new WebSocketServerHandshakerFactory(
-                "ws://localhost:8080/websocket",null,false);
-        if(handshaker == null){
+//        WebSocketServerHandshakerFactory wsFactory = new WebSocketServerHandshakerFactory(
+//                "ws://localhost:8080/websocket",null,false);
+//        if(handshaker == null){
+//            WebSocketServerHandshakerFactory.sendUnsupportedWebSocketVersionResponse(ctx.channel());
+//        }else {
+//            handshaker.handshake(ctx.channel(),req);
+//        }
+
+//        // 正常WebSocket的Http连接请求，构造握手响应返回
+        String str = "ws://" + req.headers()
+                .get(HttpHeaders.Names.HOST);
+        System.out.println(str);
+        WebSocketServerHandshakerFactory wsFactory =
+                new WebSocketServerHandshakerFactory("ws://" + req.headers()
+                        .get(HttpHeaders.Names.HOST), null, false);
+        handshaker = wsFactory.newHandshaker(req);
+        if (handshaker == null) { // 无法处理的websocket版本
             WebSocketServerHandshakerFactory.sendUnsupportedWebSocketVersionResponse(ctx.channel());
-        }else {
-            handshaker.handshake(ctx.channel(),req);
+        } else { // 向客户端发送websocket握手,完成握手
+            handshaker.handshake(ctx.channel(), req);
         }
     }
 
@@ -66,8 +83,7 @@ public class WebSocketServerHandler extends SimpleChannelInboundHandler<Object> 
         //判断是否是Ping消息
         if(frame instanceof PingWebSocketFrame){
             ctx.channel().write(
-                    "aaa"
-//                    new PongWebSocketFrame(frame.content().retain())
+                    new PongWebSocketFrame(frame.content().retain())
             );
             return;
         }
