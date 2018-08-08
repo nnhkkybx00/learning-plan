@@ -63,9 +63,7 @@ public class EchoServer {
                         @Override//使用一个EchoServerHandler 的实例初始化每一个新的Channel;
                         protected void initChannel(SocketChannel socketChannel) throws Exception {
                             ByteBuf delimiter = Unpooled.copiedBuffer("$_".getBytes());/** 以 "$_" 作为分隔符**/
-                            socketChannel.pipeline().addLast(
-                                    new DelimiterBasedFrameDecoder(1024,delimiter)
-                            );
+                            socketChannel.pipeline().addLast(new DelimiterBasedFrameDecoder(1024,delimiter));
                             socketChannel.pipeline().addLast(new StringDecoder());
                             socketChannel.pipeline().addLast(serverHandler);
                         }
