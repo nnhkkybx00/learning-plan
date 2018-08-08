@@ -1,13 +1,13 @@
 package echo_demo.client;
 
-import io.netty.buffer.ByteBuf;
 import io.netty.buffer.Unpooled;
 import io.netty.channel.ChannelHandler;
+import io.netty.channel.ChannelHandlerAdapter;
 import io.netty.channel.ChannelHandlerContext;
-import io.netty.channel.SimpleChannelInboundHandler;
-import io.netty.util.CharsetUtil;
 @ChannelHandler.Sharable
-public class EchoClientHandler extends SimpleChannelInboundHandler<ByteBuf> {
+public class EchoClientHandler extends ChannelHandlerAdapter {
+
+
 
     private int counter;
     static final String ECHO_REQ = "Hi,DuLi.Welcome to Netty.$_";
@@ -30,15 +30,15 @@ public class EchoClientHandler extends SimpleChannelInboundHandler<ByteBuf> {
 //                CharsetUtil.UTF_8));
     }
 
-    /**
-     * 当从服务器接受到一条消息时被调用
-     */
-    @Override
-    protected void channelRead0(ChannelHandlerContext channelHandlerContext, ByteBuf byteBuf) throws Exception {
-        System.out.println(
-                "Client received: " + byteBuf.toString(CharsetUtil.UTF_8)
-        );
-    }
+//    /**
+//     * 当从服务器接受到一条消息时被调用
+//     */
+//    @Override
+//    protected void channelRead(ChannelHandlerContext channelHandlerContext, ByteBuf byteBuf) throws Exception {
+//        System.out.println(
+//                "Client received: " + byteBuf.toString(CharsetUtil.UTF_8)
+//        );
+//    }
 
     @Override
     public void channelRead(ChannelHandlerContext ctx, Object msg) throws Exception {
@@ -51,6 +51,8 @@ public class EchoClientHandler extends SimpleChannelInboundHandler<ByteBuf> {
     public void channelReadComplete(ChannelHandlerContext ctx) throws Exception {
         ctx.flush();
     }
+
+
 
     /**
      * 在处理过程中引发异常时被调用

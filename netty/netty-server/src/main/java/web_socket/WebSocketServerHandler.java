@@ -66,7 +66,8 @@ public class WebSocketServerHandler extends SimpleChannelInboundHandler<Object> 
         //判断是否是Ping消息
         if(frame instanceof PingWebSocketFrame){
             ctx.channel().write(
-                    new PongWebSocketFrame(frame.content().retain())
+                    "aaa"
+//                    new PongWebSocketFrame(frame.content().retain())
             );
             return;
         }
