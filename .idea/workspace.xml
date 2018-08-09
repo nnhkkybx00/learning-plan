@@ -2,13 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="22e3395d-5786-41c6-af7d-96d956ae81d3" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/zuul/learning plan.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules/gradle_main.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/gradle_main.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules/gradle_test.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/gradle_test.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gradle/.gradle/4.8-rc-1/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/gradle/.gradle/4.8-rc-1/fileHashes/fileHashes.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gradle/.gradle/4.8-rc-1/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/gradle/.gradle/4.8-rc-1/fileHashes/fileHashes.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/learning plan" beforeDir="false" afterPath="$PROJECT_DIR$/learning plan" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/learning plan.md" beforeDir="false" afterPath="$PROJECT_DIR$/learning plan.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/many/many.iml" beforeDir="false" afterPath="$PROJECT_DIR$/many/many.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/netty/netty-server/src/main/java/echo_demo/server/EchoServer.java" beforeDir="false" afterPath="$PROJECT_DIR$/netty/netty-server/src/main/java/echo_demo/server/EchoServer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/netty/netty-server/src/main/java/echo_demo/server/EchoServerHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/netty/netty-server/src/main/java/echo_demo/server/EchoServerHandler.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/config/target/" />
     <ignored path="$PROJECT_DIR$/config/config-client-refresh/target/" />
@@ -128,12 +126,12 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="README.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/netty/README.md">
+      <file leaf-file-name="learning plan.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/learning plan.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="243">
-                <caret line="9" column="49" selection-start-line="9" selection-start-column="49" selection-end-line="9" selection-end-column="49" />
+              <first_editor relative-caret-position="316">
+                <caret line="24" column="14" lean-forward="true" selection-start-line="24" selection-start-column="14" selection-end-line="24" selection-end-column="14" />
               </first_editor>
               <second_editor />
             </state>
@@ -143,8 +141,8 @@
       <file leaf-file-name="EchoServer.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/netty/netty-server/src/main/java/echo_demo/server/EchoServer.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1323">
-              <caret line="66" column="66" selection-start-line="66" selection-start-column="40" selection-end-line="66" selection-end-column="66" />
+            <state relative-caret-position="195">
+              <caret line="67" column="88" selection-start-line="67" selection-start-column="65" selection-end-line="67" selection-end-column="88" />
             </state>
           </provider>
         </entry>
@@ -152,71 +150,11 @@
       <file leaf-file-name="EchoServerHandler.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/netty/netty-server/src/main/java/echo_demo/server/EchoServerHandler.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="621">
-              <caret line="29" column="11" selection-start-line="29" selection-start-column="8" selection-end-line="29" selection-end-column="11" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="EchoClient.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/netty/netty-server/src/main/java/echo_demo/client/EchoClient.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1026">
-              <caret line="51" column="48" selection-start-line="51" selection-start-column="48" selection-end-line="51" selection-end-column="48" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="EchoClientHandler.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/netty/netty-server/src/main/java/echo_demo/client/EchoClientHandler.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="405">
-              <caret line="20" column="74" lean-forward="true" selection-start-line="20" selection-start-column="74" selection-end-line="20" selection-end-column="74" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Simple.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/many/lambda/src/main/java/demo/Simple.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="403">
-              <caret line="15" column="21" lean-forward="true" selection-start-line="15" selection-start-column="21" selection-end-line="15" selection-end-column="21" />
+            <state relative-caret-position="-667">
+              <caret line="24" column="75" selection-start-line="24" selection-start-column="75" selection-end-line="24" selection-end-column="75" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="learning plan" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/learning plan">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret selection-end-line="7" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="learning plan.md" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/zuul/learning plan.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="243">
-                <caret line="9" column="6" selection-start-line="9" selection-start-column="6" selection-end-line="9" selection-end-column="6" />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="README.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/README.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="247">
-                <caret line="24" column="3" selection-start-line="24" selection-start-column="3" selection-end-line="24" selection-end-column="3" />
-              </first_editor>
-              <second_editor />
             </state>
           </provider>
         </entry>
@@ -617,7 +555,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/cache/redis-cache/src/test/java/com/dl/rediscache/RedisCacheApplicationTests.java" />
         <option value="$PROJECT_DIR$/cache/redis-cache/src/main/java/com/dl/rediscache/service/CacheTemplateService.java" />
         <option value="$PROJECT_DIR$/thread/src/two/dirtyread/t9/MyOneLIst.java" />
         <option value="$PROJECT_DIR$/thread/src/two/dirtyread/t9/Run.java" />
@@ -661,13 +598,14 @@
         <option value="$PROJECT_DIR$/gradle/settings.gradle" />
         <option value="$PROJECT_DIR$/gradle/build.gradle" />
         <option value="$PROJECT_DIR$/README.md" />
-        <option value="$PROJECT_DIR$/netty/netty-server/src/main/java/echo_demo/server/EchoServer.java" />
-        <option value="$PROJECT_DIR$/netty/netty-server/src/main/java/echo_demo/server/EchoServerHandler.java" />
         <option value="$PROJECT_DIR$/netty/netty-server/src/main/java/echo_demo/client/EchoClient.java" />
         <option value="$PROJECT_DIR$/netty/README.md" />
         <option value="$PROJECT_DIR$/netty/netty-server/src/main/java/echo_demo/client/EchoClientHandler.java" />
         <option value="$PROJECT_DIR$/learning plan" />
         <option value="$PROJECT_DIR$/zuul/learning plan.md" />
+        <option value="$PROJECT_DIR$/netty/netty-server/src/main/java/echo_demo/server/EchoServer.java" />
+        <option value="$PROJECT_DIR$/netty/netty-server/src/main/java/echo_demo/server/EchoServerHandler.java" />
+        <option value="$PROJECT_DIR$/learning plan.md" />
       </list>
     </option>
   </component>
@@ -758,7 +696,22 @@
             </path>
             <path>
               <item name="rainbow" type="b2602c69:ProjectViewProjectNode" />
-              <item name="zuul" type="462c0819:PsiDirectoryNode" />
+              <item name="netty" type="462c0819:PsiDirectoryNode" />
+              <item name="netty-server" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="echo_demo" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="rainbow" type="b2602c69:ProjectViewProjectNode" />
+              <item name="netty" type="462c0819:PsiDirectoryNode" />
+              <item name="netty-server" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="echo_demo" type="462c0819:PsiDirectoryNode" />
+              <item name="server" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -780,7 +733,7 @@
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="project.structure.last.edited" value="Facets" />
+    <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="Lombok plugin" />
@@ -790,6 +743,7 @@
       <recent name="com.dl.rediscache.service" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\rainbow\" />
       <recent name="D:\daydayup\gradle" />
     </key>
     <key name="CreateTestDialog.Recents.Supers">
@@ -819,7 +773,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.EchoClient">
+  <component name="RunManager" selected="Application.EchoServer">
     <configuration name="EchoClient" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="echo_demo.client.EchoClient" />
       <module name="netty_" />
@@ -1203,8 +1157,8 @@
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.EchoClient" />
         <item itemvalue="Application.EchoServer" />
+        <item itemvalue="Application.EchoClient" />
         <item itemvalue="Gradle.gradle [makeWebDir]" />
         <item itemvalue="Gradle.gradle [makeJavaDir]" />
         <item itemvalue="Gradle.gradle [jar]" />
@@ -1240,7 +1194,7 @@
       <workItem from="1533478486675" duration="3062000" />
       <workItem from="1533481620709" duration="135000" />
       <workItem from="1533565756128" duration="4944000" />
-      <workItem from="1533826700379" duration="958000" />
+      <workItem from="1533826700379" duration="3504000" />
     </task>
     <servers />
   </component>
@@ -1277,7 +1231,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="97268000" />
+    <option name="totallyTimeSpent" value="99814000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -1296,15 +1250,16 @@
       <window_info id="UI Designer" order="2" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.26539755" />
       <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Messages" order="7" weight="0.32922733" />
       <window_info anchor="right" id="Palette&#9;" order="3" />
       <window_info id="Image Layers" order="2" />
       <window_info anchor="bottom" id="Java Enterprise" order="7" />
       <window_info anchor="right" id="Capture Analysis" order="3" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.3605823" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3605823" />
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Spring" order="7" />
       <window_info anchor="bottom" id="Terminal" order="7" weight="0.56774914" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18656716" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.18656716" />
       <window_info anchor="right" id="Bean Validation" order="3" />
       <window_info id="Web" order="2" side_tool="true" />
       <window_info anchor="right" id="Gradle" order="4" weight="0.15671642" />
@@ -1313,7 +1268,6 @@
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Messages" order="7" weight="0.32922733" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32922733" />
@@ -1636,16 +1590,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/netty/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="243">
-            <caret line="9" column="49" selection-start-line="9" selection-start-column="49" selection-end-line="9" selection-end-column="49" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/netty/netty-server/src/main/java/echo_demo/client/EchoClient.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1026">
@@ -1653,34 +1597,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/netty/netty-server/src/main/java/echo_demo/server/EchoServer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1323">
-          <caret line="66" column="66" selection-start-line="66" selection-start-column="40" selection-end-line="66" selection-end-column="66" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/netty/netty-server/src/main/java/echo_demo/server/EchoServerHandler.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="621">
-          <caret line="29" column="11" selection-start-line="29" selection-start-column="8" selection-end-line="29" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/netty/netty-server/src/main/java/echo_demo/client/EchoClientHandler.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="405">
-          <caret line="20" column="74" lean-forward="true" selection-start-line="20" selection-start-column="74" selection-end-line="20" selection-end-column="74" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/many/lambda/src/main/java/demo/Simple.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="403">
-          <caret line="15" column="21" lean-forward="true" selection-start-line="15" selection-start-column="21" selection-end-line="15" selection-end-column="21" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+          <caret line="20" column="74" selection-start-line="20" selection-start-column="74" selection-end-line="20" selection-end-column="74" />
         </state>
       </provider>
     </entry>
@@ -1694,18 +1614,55 @@
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="247">
-            <caret line="24" column="3" selection-start-line="24" selection-start-column="3" selection-end-line="24" selection-end-column="3" />
+          <first_editor relative-caret-position="594">
+            <caret line="22" column="8" selection-start-line="22" selection-start-column="8" selection-end-line="22" selection-end-column="8" />
           </first_editor>
           <second_editor />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/zuul/learning plan.md">
+    <entry file="file://$PROJECT_DIR$/many/lambda/src/main/java/demo/Simple.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="241">
+          <caret line="9" column="44" lean-forward="true" selection-start-line="9" selection-start-column="44" selection-end-line="9" selection-end-column="44" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/netty/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="243">
+            <caret line="9" column="49" selection-start-line="9" selection-start-column="49" selection-end-line="9" selection-end-column="49" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/netty/netty-server/src/main/java/echo_demo/server/EchoServerHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-667">
+          <caret line="24" column="75" selection-start-line="24" selection-start-column="75" selection-end-line="24" selection-end-column="75" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/netty/netty-server/src/main/java/echo_demo/server/EchoServer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="67" column="88" selection-start-line="67" selection-start-column="65" selection-end-line="67" selection-end-column="88" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/learning plan.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="243">
-            <caret line="9" column="6" selection-start-line="9" selection-start-column="6" selection-end-line="9" selection-end-column="6" />
+          <first_editor relative-caret-position="316">
+            <caret line="24" column="14" lean-forward="true" selection-start-line="24" selection-start-column="14" selection-end-line="24" selection-end-column="14" />
           </first_editor>
           <second_editor />
         </state>
@@ -1768,11 +1725,12 @@
       </state>
       <state key="ModuleStructureConfigurable.UI">
         <settings>
-          <last-edited>gradle</last-edited>
+          <last-edited>many</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
                 <option value="0.2" />
+                <option value="0.6" />
               </list>
             </option>
           </splitter-proportions>
@@ -1780,7 +1738,7 @@
       </state>
       <state key="ProjectLibrariesConfigurable.UI">
         <settings>
-          <last-edited />
+          <last-edited>Maven: antlr:antlr:2.7.7</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
