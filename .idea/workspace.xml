@@ -3,10 +3,9 @@
   <component name="ChangeListManager">
     <list default="true" id="22e3395d-5786-41c6-af7d-96d956ae81d3" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java8/java8.iml" beforeDir="false" afterPath="$PROJECT_DIR$/java8/java8.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/learning plan.md" beforeDir="false" afterPath="$PROJECT_DIR$/learning plan.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/many/many.iml" beforeDir="false" afterPath="$PROJECT_DIR$/many/many.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/netty/netty-server/src/main/java/echo_demo/server/EchoServer.java" beforeDir="false" afterPath="$PROJECT_DIR$/netty/netty-server/src/main/java/echo_demo/server/EchoServer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/netty/netty-server/src/main/java/echo_demo/server/EchoServerHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/netty/netty-server/src/main/java/echo_demo/server/EchoServerHandler.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/many/lambda/src/main/java/ahead/Employee.java" beforeDir="false" afterPath="$PROJECT_DIR$/many/lambda/src/main/java/ahead/Employee.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/config/target/" />
     <ignored path="$PROJECT_DIR$/config/config-client-refresh/target/" />
@@ -126,34 +125,39 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="learning plan.md" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/learning plan.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="316">
-                <caret line="24" column="14" lean-forward="true" selection-start-line="24" selection-start-column="14" selection-end-line="24" selection-end-column="14" />
-              </first_editor>
-              <second_editor />
+      <file leaf-file-name="Compared.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/java8/src/main/java/npe/optional/Compared.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="289">
+              <caret line="28" column="13" selection-start-line="28" selection-start-column="13" selection-end-line="28" selection-end-column="13" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="EchoServer.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/netty/netty-server/src/main/java/echo_demo/server/EchoServer.java">
+      <file leaf-file-name="Simple.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/many/lambda/src/main/java/demo/Simple.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="195">
-              <caret line="67" column="88" selection-start-line="67" selection-start-column="65" selection-end-line="67" selection-end-column="88" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="EchoServerHandler.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/netty/netty-server/src/main/java/echo_demo/server/EchoServerHandler.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-667">
-              <caret line="24" column="75" selection-start-line="24" selection-start-column="75" selection-end-line="24" selection-end-column="75" />
+            <state relative-caret-position="241">
+              <caret line="9" column="44" lean-forward="true" selection-start-line="9" selection-start-column="44" selection-end-line="9" selection-end-column="44" />
               <folding>
                 <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Employee.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/many/lambda/src/main/java/ahead/Employee.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="648">
+              <caret line="24" column="24" lean-forward="true" selection-start-line="24" selection-start-column="24" selection-end-line="24" selection-end-column="24" />
+              <folding>
+                <element signature="e#267#268#0" expanded="true" />
+                <element signature="e#296#297#0" expanded="true" />
+                <element signature="e#327#328#0" expanded="true" />
+                <element signature="e#354#355#0" expanded="true" />
+                <element signature="e#290#291#0" expanded="true" />
+                <element signature="e#344#345#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -585,7 +589,6 @@
         <option value="$PROJECT_DIR$/nio/src/main/java/reactor/server/TCPHandler.java" />
         <option value="$PROJECT_DIR$/netty/transmission/src/main/java/PlainNioServer.java" />
         <option value="$PROJECT_DIR$/netty/transmission/src/main/java/Main.java" />
-        <option value="$PROJECT_DIR$/many/lambda/src/main/java/ahead/Employee.java" />
         <option value="$PROJECT_DIR$/netty/netty-server/src/main/java/netty_time_server/client/TimeClient.java" />
         <option value="$PROJECT_DIR$/netty/netty-server/src/main/java/netty_time_server/server/TiemServer.java" />
         <option value="$PROJECT_DIR$/netty/netty-server/src/main/java/netty_time_server/client/TimeClientHandler.java" />
@@ -606,6 +609,7 @@
         <option value="$PROJECT_DIR$/netty/netty-server/src/main/java/echo_demo/server/EchoServer.java" />
         <option value="$PROJECT_DIR$/netty/netty-server/src/main/java/echo_demo/server/EchoServerHandler.java" />
         <option value="$PROJECT_DIR$/learning plan.md" />
+        <option value="$PROJECT_DIR$/many/lambda/src/main/java/ahead/Employee.java" />
       </list>
     </option>
   </component>
@@ -661,64 +665,63 @@
     </navigator>
     <panes>
       <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
               <item name="rainbow" type="b2602c69:ProjectViewProjectNode" />
-              <item name="netty" type="462c0819:PsiDirectoryNode" />
+              <item name="many" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="rainbow" type="b2602c69:ProjectViewProjectNode" />
-              <item name="netty" type="462c0819:PsiDirectoryNode" />
-              <item name="netty-server" type="462c0819:PsiDirectoryNode" />
+              <item name="many" type="462c0819:PsiDirectoryNode" />
+              <item name="lambda" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="rainbow" type="b2602c69:ProjectViewProjectNode" />
-              <item name="netty" type="462c0819:PsiDirectoryNode" />
-              <item name="netty-server" type="462c0819:PsiDirectoryNode" />
+              <item name="many" type="462c0819:PsiDirectoryNode" />
+              <item name="lambda" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="rainbow" type="b2602c69:ProjectViewProjectNode" />
-              <item name="netty" type="462c0819:PsiDirectoryNode" />
-              <item name="netty-server" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="rainbow" type="b2602c69:ProjectViewProjectNode" />
-              <item name="netty" type="462c0819:PsiDirectoryNode" />
-              <item name="netty-server" type="462c0819:PsiDirectoryNode" />
+              <item name="many" type="462c0819:PsiDirectoryNode" />
+              <item name="lambda" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="rainbow" type="b2602c69:ProjectViewProjectNode" />
-              <item name="netty" type="462c0819:PsiDirectoryNode" />
-              <item name="netty-server" type="462c0819:PsiDirectoryNode" />
+              <item name="many" type="462c0819:PsiDirectoryNode" />
+              <item name="lambda" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="echo_demo" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="rainbow" type="b2602c69:ProjectViewProjectNode" />
-              <item name="netty" type="462c0819:PsiDirectoryNode" />
-              <item name="netty-server" type="462c0819:PsiDirectoryNode" />
+              <item name="many" type="462c0819:PsiDirectoryNode" />
+              <item name="lambda" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="echo_demo" type="462c0819:PsiDirectoryNode" />
-              <item name="server" type="462c0819:PsiDirectoryNode" />
+              <item name="ahead" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="rainbow" type="b2602c69:ProjectViewProjectNode" />
+              <item name="many" type="462c0819:PsiDirectoryNode" />
+              <item name="lambda" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="demo" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
       <pane id="AndroidView" />
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -1194,7 +1197,8 @@
       <workItem from="1533478486675" duration="3062000" />
       <workItem from="1533481620709" duration="135000" />
       <workItem from="1533565756128" duration="4944000" />
-      <workItem from="1533826700379" duration="3504000" />
+      <workItem from="1533826700379" duration="3978000" />
+      <workItem from="1533912340306" duration="2189000" />
     </task>
     <servers />
   </component>
@@ -1231,7 +1235,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="99814000" />
+    <option name="totallyTimeSpent" value="102477000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -1243,23 +1247,21 @@
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
-      <window_info anchor="bottom" id="Build" order="8" weight="0.32922733" />
       <window_info anchor="right" id="Database" order="3" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info id="UI Designer" order="2" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.26539755" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Messages" order="7" weight="0.32922733" />
       <window_info anchor="right" id="Palette&#9;" order="3" />
       <window_info id="Image Layers" order="2" />
       <window_info anchor="bottom" id="Java Enterprise" order="7" />
       <window_info anchor="right" id="Capture Analysis" order="3" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3605823" />
       <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3605823" />
       <window_info anchor="bottom" id="Spring" order="7" />
       <window_info anchor="bottom" id="Terminal" order="7" weight="0.56774914" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.18656716" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18869936" />
       <window_info anchor="right" id="Bean Validation" order="3" />
       <window_info id="Web" order="2" side_tool="true" />
       <window_info anchor="right" id="Gradle" order="4" weight="0.15671642" />
@@ -1268,6 +1270,8 @@
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Build" order="8" weight="0.32922733" />
+      <window_info anchor="bottom" id="Messages" order="7" weight="0.32922733" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32922733" />
@@ -1299,27 +1303,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/nio/src/main/java/selector/NIO_Listening.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="173">
-          <caret line="100" column="31" selection-start-line="100" selection-start-column="24" selection-end-line="100" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/nio/src/main/java/socketprogram/Client.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="411">
-          <caret line="31" column="55" selection-start-line="31" selection-start-column="47" selection-end-line="31" selection-end-column="55" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/netty/transmission/src/main/java/PlainOioServer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="324">
-          <caret line="24" column="48" selection-start-line="24" selection-start-column="36" selection-end-line="24" selection-end-column="48" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/nio/src/main/java/reactor/client/Client.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="27">
@@ -1552,13 +1535,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/many/lambda/src/main/java/ahead/Employee.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="324">
-          <caret line="14" column="38" selection-start-line="14" selection-start-column="38" selection-end-line="14" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/gradle/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -1604,13 +1580,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/learning plan">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-line="7" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/learning plan" />
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -1618,16 +1588,6 @@
             <caret line="22" column="8" selection-start-line="22" selection-start-column="8" selection-end-line="22" selection-end-column="8" />
           </first_editor>
           <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/many/lambda/src/main/java/demo/Simple.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="241">
-          <caret line="9" column="44" lean-forward="true" selection-start-line="9" selection-start-column="44" selection-end-line="9" selection-end-column="44" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1643,7 +1603,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/netty/netty-server/src/main/java/echo_demo/server/EchoServerHandler.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-667">
+        <state relative-caret-position="513">
           <caret line="24" column="75" selection-start-line="24" selection-start-column="75" selection-end-line="24" selection-end-column="75" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -1653,18 +1613,64 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/netty/netty-server/src/main/java/echo_demo/server/EchoServer.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
+        <state relative-caret-position="1323">
           <caret line="67" column="88" selection-start-line="67" selection-start-column="65" selection-end-line="67" selection-end-column="88" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java8/src/main/java/npe/old/Address.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="621">
+          <caret line="23" column="13" selection-start-line="23" selection-start-column="13" selection-end-line="23" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java8/src/main/java/npe/old/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="837">
+          <caret line="31" column="28" selection-start-line="31" selection-start-column="28" selection-end-line="31" selection-end-column="28" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/learning plan.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="316">
-            <caret line="24" column="14" lean-forward="true" selection-start-line="24" selection-start-column="14" selection-end-line="24" selection-end-column="14" />
+          <first_editor relative-caret-position="746">
+            <caret line="36" column="23" selection-start-line="36" selection-start-column="23" selection-end-line="36" selection-end-column="23" />
           </first_editor>
           <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java8/src/main/java/npe/optional/Compared.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="28" column="13" selection-start-line="28" selection-start-column="13" selection-end-line="28" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/many/lambda/src/main/java/demo/Simple.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="241">
+          <caret line="9" column="44" lean-forward="true" selection-start-line="9" selection-start-column="44" selection-end-line="9" selection-end-column="44" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/many/lambda/src/main/java/ahead/Employee.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="648">
+          <caret line="24" column="24" lean-forward="true" selection-start-line="24" selection-start-column="24" selection-end-line="24" selection-end-column="24" />
+          <folding>
+            <element signature="e#267#268#0" expanded="true" />
+            <element signature="e#296#297#0" expanded="true" />
+            <element signature="e#327#328#0" expanded="true" />
+            <element signature="e#354#355#0" expanded="true" />
+            <element signature="e#290#291#0" expanded="true" />
+            <element signature="e#344#345#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -1725,7 +1731,7 @@
       </state>
       <state key="ModuleStructureConfigurable.UI">
         <settings>
-          <last-edited>many</last-edited>
+          <last-edited>java8</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>

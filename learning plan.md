@@ -23,4 +23,15 @@ code : netty-server/echo-demo
 code : netty-server/echo-demo
 --- 
 #### 第六章：编解码技术
-##### day02-8.10
+##### day02-8.10：
+ - java序列化的目的主要有两个
+    - 网络传输
+    - 对象持久化
+ - 6.1 java序列化的缺点
+    - 6.1.1 无法跨语言
+    - 6.1.2 序列化后的码流太大
+    - 6.1.3 序列化性能太低
+ - 6.2 业界主流的编解码框架
+    - Google 的 Protobuf
+    - Facebook 的Thrift
+    - JBoss Marshalling
